@@ -1,0 +1,1001 @@
+order_id,customer_id,gender,region,age,product_name,category,unit_price,quantity,total_price,shipping_fee,shipping_status,order_date,returned
+O1001,C804,Male,East,28,Headphones,Electronics,$798.57,1,$798.57,$10.11,Delivered,5/15/2025,No
+O1002,C231,Male,West,57,Laptop,Electronics,$602.34,2,"$1,204.68",$71.70,Delivered,5/8/2025,No
+O1003,C325,Female,South,42,Phone,Electronics,$436.00,2,$872.00,$30.30,Delivered,8/28/2024,No
+O1004,C744,Male,North,23,Laptop,Electronics,$169.22,2,$338.44,$62.38,Delivered,5/27/2025,No
+O1005,C728,Female,South,34,Magazine,Books,$276.30,4,"$1,105.20",$48.99,Delivered,11/27/2024,No
+O1006,C224,Female,West,23,Headphones,Electronics,$984.51,1,$984.51,$11.05,In Transit,10/9/2024,No
+O1007,C831,Female,East,41,Phone,Electronics,$81.72,4,$326.88,$45.60,Delivered,9/25/2024,No
+O1008,C744,Male,East,61,Sofa,Home,$974.95,2,"$1,949.90",$36.25,In Transit,8/12/2024,No
+O1009,C365,Male,East,35,Headphones,Electronics,$698.03,1,$698.03,$95.74,Delivered,5/21/2025,No
+O1010,C365,Male,West,53,Headphones,Electronics,$908.74,3,"$2,726.22",$53.25,Delivered,5/6/2025,No
+O1011,C528,Female,South,49,Desk,Home,$113.88,1,$113.88,$19.25,Delivered,4/23/2025,No
+O1012,C120,Female,West,18,Textbook,Books,$575.20,3,"$1,725.60",$54.90,In Transit,9/6/2024,No
+O1013,C422,Female,South,61,Laptop,Electronics,$621.97,4,"$2,487.88",$41.14,Delivered,2/12/2025,No
+O1014,C955,Male,East,41,Jeans,Clothing,$778.05,2,"$1,556.10",$39.38,Delivered,9/29/2024,No
+O1015,C903,Male,North,65,Sofa,Home,$522.53,1,$522.53,$89.43,In Transit,12/31/2024,No
+O1016,C651,Male,South,26,Sneakers,Clothing,$91.68,1,$91.68,$17.07,In Transit,2/8/2025,No
+O1017,C301,Female,South,29,Fiction,Books,$402.95,2,$805.90,$97.97,Delivered,10/8/2024,No
+O1018,C533,Female,South,57,Chair,Home,$208.85,2,$417.70,$82.05,Delivered,4/10/2025,No
+O1019,C172,Female,East,45,Sneakers,Clothing,$208.15,3,$624.45,$70.33,Returned,12/1/2024,Yes
+O1020,C699,Female,West,54,Chair,Home,$952.03,1,$952.03,$73.58,Delivered,1/7/2025,No
+O1021,C973,Female,North,50,Phone,Electronics,$41.27,2,$82.54,$65.49,In Transit,3/18/2025,No
+O1022,C458,Male,North,32,Lamp,Home,$616.81,1,$616.81,$73.82,Delivered,5/5/2025,No
+O1023,C766,Female,West,62,Lamp,Home,$872.26,2,"$1,744.52",$66.28,Delivered,6/19/2025,No
+O1024,C125,Male,South,18,Textbook,Books,$785.59,3,"$2,356.77",$83.33,Delivered,11/16/2024,No
+O1025,C662,Female,East,31,Sofa,Home,$89.31,4,$357.24,$59.77,Returned,4/23/2025,Yes
+O1026,C825,Male,East,48,Jeans,Clothing,$601.50,2,"$1,203.00",$50.71,Delivered,7/16/2024,No
+O1027,C969,Female,East,31,Fiction,Books,$647.14,1,$647.14,$24.76,In Transit,4/30/2025,No
+O1028,C796,Female,North,20,Tablet,Electronics,$444.22,2,$888.44,$15.43,Delivered,4/28/2025,No
+O1029,C158,Male,South,58,Textbook,Books,$254.63,1,$254.63,$53.14,Delivered,8/28/2024,No
+O1030,C739,Male,East,28,Non-fiction,Books,$619.58,3,"$1,858.74",$97.83,In Transit,11/8/2024,No
+O1031,C314,Male,North,42,Sofa,Home,$343.53,4,"$1,374.12",$88.46,Delivered,11/2/2024,No
+O1032,C306,Female,North,56,Fiction,Books,$439.32,4,"$1,757.28",$54.84,Delivered,7/7/2024,No
+O1033,C295,Female,West,44,Chair,Home,$559.81,2,"$1,119.62",$68.79,Delivered,4/30/2025,No
+O1034,C693,Male,East,41,Non-fiction,Books,$338.99,4,"$1,355.96",$97.73,In Transit,8/18/2024,No
+O1035,C487,Male,North,46,Magazine,Books,$653.82,2,"$1,307.64",$46.29,Delivered,5/14/2025,No
+O1036,C625,Female,West,32,Laptop,Electronics,$228.36,2,$456.72,$12.76,Delivered,11/11/2024,No
+O1037,C353,Female,West,57,Jeans,Clothing,$265.11,4,"$1,060.44",$25.68,Returned,9/12/2024,Yes
+O1038,C931,Male,North,63,Jeans,Clothing,$961.17,2,"$1,922.34",$76.84,Delivered,10/16/2024,No
+O1039,C955,Female,East,27,Tablet,Electronics,$431.24,4,"$1,724.96",$76.18,Delivered,7/27/2024,No
+O1040,C867,Female,North,36,Sneakers,Clothing,$770.05,4,"$3,080.20",$13.61,Delivered,9/2/2024,No
+O1041,C124,Female,East,40,Phone,Electronics,$868.36,4,"$3,473.44",$62.93,Delivered,4/29/2025,No
+O1042,C273,Male,East,26,Tablet,Electronics,$39.10,2,$78.20,$53.80,In Transit,2/2/2025,No
+O1043,C261,Female,East,64,Sofa,Home,$874.69,2,"$1,749.38",$81.37,Delivered,7/28/2024,No
+O1044,C701,Male,South,62,Headphones,Electronics,$658.46,3,"$1,975.38",$63.31,Returned,4/28/2025,Yes
+O1045,C610,Female,North,40,Textbook,Books,$913.24,4,"$3,652.96",$44.55,In Transit,10/26/2024,No
+O1046,C452,Male,North,63,Headphones,Electronics,$471.15,1,$471.15,$75.98,Delivered,8/2/2024,No
+O1047,C596,Male,West,25,Lamp,Home,$140.25,4,$561.00,$46.48,Delivered,9/6/2024,No
+O1048,C886,Female,South,22,Magazine,Books,$605.84,2,"$1,211.68",$31.38,In Transit,5/31/2025,No
+O1049,C193,Female,South,23,Jacket,Clothing,$971.68,3,"$2,915.04",$47.17,Delivered,9/4/2024,No
+O1050,C913,Male,East,61,Laptop,Electronics,$78.44,1,$78.44,$32.25,Delivered,1/30/2025,No
+O1051,C215,Female,West,46,T-Shirt,Clothing,$872.04,3,"$2,616.12",$63.36,In Transit,5/26/2025,No
+O1052,C755,Female,West,56,Headphones,Electronics,$583.62,4,"$2,334.48",$63.37,In Transit,6/2/2025,No
+O1053,C301,Female,East,34,T-Shirt,Clothing,$171.89,3,$515.67,$38.09,Delivered,2/21/2025,No
+O1054,C767,Male,South,33,Lamp,Home,$405.06,3,"$1,215.18",$69.11,Delivered,12/15/2024,No
+O1055,C220,Male,East,34,Jacket,Clothing,$331.94,4,"$1,327.76",$63.88,Delivered,8/6/2024,No
+O1056,C959,Male,East,24,Tablet,Electronics,$402.69,3,"$1,208.07",$50.84,Delivered,1/23/2025,No
+O1057,C930,Female,East,61,Jacket,Clothing,$243.69,3,$731.07,$49.78,Delivered,3/20/2025,No
+O1058,C556,Male,East,25,Tablet,Electronics,$337.58,1,$337.58,$40.33,Delivered,4/26/2025,No
+O1059,C750,Female,West,64,Chair,Home,$830.59,1,$830.59,$50.45,Delivered,9/23/2024,No
+O1060,C497,Male,South,28,Sofa,Home,$592.01,4,"$2,368.04",$73.61,Delivered,8/10/2024,No
+O1061,C742,Female,West,56,Jeans,Clothing,$175.37,4,$701.48,$44.14,Delivered,3/12/2025,No
+O1062,C821,Female,East,28,Jeans,Clothing,$609.48,3,"$1,828.44",$69.74,Returned,3/5/2025,Yes
+O1063,C661,Male,North,47,Non-fiction,Books,$479.88,1,$479.88,$73.48,Returned,8/21/2024,Yes
+O1064,C170,Male,East,59,Desk,Home,$451.90,3,"$1,355.70",$88.14,Delivered,8/4/2024,No
+O1065,C783,Male,North,35,Headphones,Electronics,$213.78,1,$213.78,$13.08,Delivered,11/5/2024,No
+O1066,C746,Female,South,33,Desk,Home,$986.83,1,$986.83,$57.81,Returned,6/14/2025,Yes
+O1067,C718,Male,West,27,Laptop,Electronics,$937.24,1,$937.24,$67.60,In Transit,5/9/2025,No
+O1068,C781,Female,West,48,Non-fiction,Books,$232.45,1,$232.45,$94.05,Delivered,2/10/2025,No
+O1069,C622,Female,West,53,Tablet,Electronics,$322.99,1,$322.99,$62.62,Delivered,5/4/2025,No
+O1070,C571,Male,South,33,Jacket,Clothing,$691.33,4,"$2,765.32",$98.80,Delivered,9/19/2024,No
+O1071,C340,Male,West,19,Lamp,Home,$965.47,3,"$2,896.41",$11.56,Delivered,6/11/2025,No
+O1072,C987,Female,East,29,Lamp,Home,$329.90,1,$329.90,$88.11,Delivered,1/29/2025,No
+O1073,C286,Female,East,63,Phone,Electronics,$460.19,3,"$1,380.57",$56.96,Delivered,10/1/2024,No
+O1074,C113,Female,South,35,Sneakers,Clothing,$349.23,2,$698.46,$22.57,Delivered,10/4/2024,No
+O1075,C543,Male,South,55,Textbook,Books,$39.67,1,$39.67,$22.92,Returned,2/28/2025,Yes
+O1076,C312,Male,South,31,Fiction,Books,$940.42,4,"$3,761.68",$70.61,Delivered,6/25/2024,No
+O1077,C334,Female,West,22,Phone,Electronics,$970.21,1,$970.21,$75.77,In Transit,10/7/2024,No
+O1078,C726,Female,East,23,Tablet,Electronics,$164.60,2,$329.20,$88.13,Delivered,3/25/2025,No
+O1079,C159,Female,West,56,Jeans,Clothing,$185.38,2,$370.76,$69.55,Delivered,7/27/2024,No
+O1080,C778,Male,North,63,Headphones,Electronics,$978.84,3,"$2,936.52",$71.49,In Transit,7/8/2024,No
+O1081,C406,Male,East,54,Non-fiction,Books,$502.20,1,$502.20,$84.78,Returned,7/11/2024,Yes
+O1082,C874,Male,South,21,Jacket,Clothing,$865.96,1,$865.96,$12.73,In Transit,5/14/2025,No
+O1083,C664,Male,North,63,Magazine,Books,$931.64,2,"$1,863.28",$92.68,Delivered,1/27/2025,No
+O1084,C485,Male,East,44,T-Shirt,Clothing,$604.60,3,"$1,813.80",$69.30,In Transit,4/9/2025,No
+O1085,C647,Male,South,45,Laptop,Electronics,$399.93,1,$399.93,$61.95,Delivered,2/10/2025,No
+O1086,C902,Female,East,33,Headphones,Electronics,$355.09,2,$710.18,$99.95,Delivered,2/14/2025,No
+O1087,C524,Male,East,29,Sofa,Home,$57.73,1,$57.73,$87.98,Delivered,9/3/2024,No
+O1088,C617,Male,South,38,Lamp,Home,$993.40,1,$993.40,$80.41,Delivered,5/25/2025,No
+O1089,C413,Male,North,25,Tablet,Electronics,$571.35,1,$571.35,$19.82,Returned,2/9/2025,Yes
+O1090,C530,Male,West,25,Non-fiction,Books,$654.01,2,"$1,308.02",$39.43,In Transit,5/11/2025,No
+O1091,C967,Male,West,50,Tablet,Electronics,$670.92,2,"$1,341.84",$91.12,Delivered,5/27/2025,No
+O1092,C298,Female,North,62,Phone,Electronics,$879.11,3,"$2,637.33",$49.20,Delivered,1/15/2025,No
+O1093,C485,Male,West,42,Magazine,Books,$819.66,4,"$3,278.64",$36.72,Delivered,8/13/2024,No
+O1094,C431,Male,East,26,Fiction,Books,$652.58,1,$652.58,$39.21,Returned,1/8/2025,Yes
+O1095,C542,Male,East,30,Magazine,Books,$372.80,3,"$1,118.40",$60.71,Delivered,9/4/2024,No
+O1096,C212,Male,South,63,Fiction,Books,$386.62,1,$386.62,$50.38,Returned,1/21/2025,Yes
+O1097,C935,Female,South,48,Jeans,Clothing,$245.17,1,$245.17,$50.00,Delivered,8/14/2024,No
+O1098,C918,Male,South,52,T-Shirt,Clothing,$24.52,3,$73.56,$64.31,In Transit,3/26/2025,No
+O1099,C249,Female,East,41,Sneakers,Clothing,$671.53,2,"$1,343.06",$78.34,In Transit,10/22/2024,No
+O1100,C282,Female,South,18,Sneakers,Clothing,$505.44,1,$505.44,$87.70,In Transit,12/4/2024,No
+O1101,C242,Female,North,47,Chair,Home,$523.89,2,"$1,047.78",$92.28,Delivered,1/26/2025,No
+O1102,C479,Male,North,59,Non-fiction,Books,$815.63,1,$815.63,$44.22,Returned,7/11/2024,Yes
+O1103,C472,Female,East,19,Chair,Home,$404.83,1,$404.83,$32.15,Returned,3/31/2025,Yes
+O1104,C378,Male,West,48,Phone,Electronics,$481.93,3,"$1,445.79",$78.84,Delivered,5/31/2025,No
+O1105,C697,Male,South,53,Sofa,Home,$814.86,2,"$1,629.72",$74.39,Delivered,5/22/2025,No
+O1106,C677,Female,East,27,T-Shirt,Clothing,$526.02,1,$526.02,$27.62,Returned,4/30/2025,Yes
+O1107,C363,Male,North,58,Chair,Home,$17.49,3,$52.47,$16.42,In Transit,5/22/2025,No
+O1108,C980,Female,East,32,Desk,Home,$955.11,4,"$3,820.44",$93.43,Delivered,4/11/2025,No
+O1109,C886,Female,North,64,Textbook,Books,$69.66,1,$69.66,$53.13,Delivered,12/19/2024,No
+O1110,C801,Female,West,28,Tablet,Electronics,$202.61,2,$405.22,$53.73,Delivered,9/28/2024,No
+O1111,C773,Male,West,46,Chair,Home,$264.21,4,"$1,056.84",$70.31,Delivered,2/2/2025,No
+O1112,C820,Male,West,55,Non-fiction,Books,$930.31,4,"$3,721.24",$58.52,Delivered,2/12/2025,No
+O1113,C403,Female,West,34,Sneakers,Clothing,$318.19,4,"$1,272.76",$74.59,Delivered,10/21/2024,No
+O1114,C588,Male,West,36,Sneakers,Clothing,$405.91,1,$405.91,$47.22,In Transit,3/24/2025,No
+O1115,C497,Male,East,22,Sofa,Home,$130.67,3,$392.01,$21.09,Delivered,3/26/2025,No
+O1116,C531,Female,East,26,Non-fiction,Books,$860.82,3,"$2,582.46",$57.26,In Transit,1/5/2025,No
+O1117,C653,Male,North,65,Headphones,Electronics,$711.96,4,"$2,847.84",$81.41,Delivered,7/16/2024,No
+O1118,C456,Female,West,33,Sofa,Home,$193.38,4,$773.52,$96.66,In Transit,2/9/2025,No
+O1119,C129,Female,West,19,Jeans,Clothing,$488.71,3,"$1,466.13",$83.42,Returned,6/27/2024,Yes
+O1120,C726,Male,East,58,Jeans,Clothing,$379.77,1,$379.77,$66.98,Delivered,3/13/2025,No
+O1121,C281,Male,North,50,Jeans,Clothing,$951.89,3,"$2,855.67",$67.42,Delivered,5/22/2025,No
+O1122,C732,Male,North,42,Textbook,Books,$520.02,4,"$2,080.08",$30.53,Delivered,1/1/2025,No
+O1123,C592,Male,North,28,Non-fiction,Books,$219.92,2,$439.84,$25.73,Delivered,12/20/2024,No
+O1124,C375,Male,North,31,Textbook,Books,$367.16,2,$734.32,$91.00,In Transit,7/28/2024,No
+O1125,C111,Male,South,49,Fiction,Books,$359.89,2,$719.78,$33.01,Delivered,10/16/2024,No
+O1126,C382,Male,South,52,Lamp,Home,$309.04,4,"$1,236.16",$84.04,Returned,8/6/2024,Yes
+O1127,C542,Female,North,62,Tablet,Electronics,$429.50,2,$859.00,$82.86,In Transit,8/17/2024,No
+O1128,C710,Female,South,18,Desk,Home,$768.99,2,"$1,537.98",$50.66,Delivered,11/10/2024,No
+O1129,C882,Female,West,36,Magazine,Books,$590.74,3,"$1,772.22",$31.17,Delivered,8/21/2024,No
+O1130,C973,Female,West,62,Fiction,Books,$870.57,1,$870.57,$29.51,Returned,7/24/2024,Yes
+O1131,C575,Male,West,46,T-Shirt,Clothing,$104.76,4,$419.04,$38.10,Returned,2/26/2025,Yes
+O1132,C713,Female,South,25,Sofa,Home,$237.94,3,$713.82,$59.20,Delivered,9/26/2024,No
+O1133,C836,Female,North,18,Tablet,Electronics,$239.63,2,$479.26,$66.88,Delivered,3/1/2025,No
+O1134,C517,Female,North,21,Desk,Home,$67.87,1,$67.87,$98.90,In Transit,7/13/2024,No
+O1135,C418,Female,North,49,Jeans,Clothing,$145.08,1,$145.08,$70.83,Delivered,1/21/2025,No
+O1136,C696,Female,North,58,Lamp,Home,$448.29,1,$448.29,$74.58,Delivered,2/26/2025,No
+O1137,C304,Female,East,48,Textbook,Books,$695.51,3,"$2,086.53",$40.70,Delivered,9/18/2024,No
+O1138,C194,Female,West,50,Lamp,Home,$820.52,4,"$3,282.08",$75.19,In Transit,8/28/2024,No
+O1139,C326,Male,South,59,Jacket,Clothing,$582.60,3,"$1,747.80",$79.54,Delivered,3/4/2025,No
+O1140,C674,Female,West,59,Jacket,Clothing,$272.25,1,$272.25,$90.48,Delivered,6/9/2025,No
+O1141,C199,Female,East,32,Sneakers,Clothing,$199.95,4,$799.80,$43.03,Delivered,11/14/2024,No
+O1142,C902,Male,North,43,Chair,Home,$350.12,3,"$1,050.36",$16.25,In Transit,5/31/2025,No
+O1143,C715,Female,South,19,Headphones,Electronics,$523.87,2,"$1,047.74",$70.26,Delivered,12/14/2024,No
+O1144,C223,Female,East,60,Non-fiction,Books,$79.23,4,$316.92,$58.60,Returned,12/16/2024,Yes
+O1145,C913,Female,North,30,Chair,Home,$881.28,2,"$1,762.56",$71.21,Delivered,3/11/2025,No
+O1146,C972,Male,East,35,Magazine,Books,$238.52,2,$477.04,$39.97,Delivered,9/1/2024,No
+O1147,C993,Male,East,58,Desk,Home,$672.79,3,"$2,018.37",$44.06,Delivered,2/2/2025,No
+O1148,C726,Female,East,43,Textbook,Books,$369.31,3,"$1,107.93",$75.76,Delivered,8/7/2024,No
+O1149,C980,Male,East,44,Desk,Home,$470.55,4,"$1,882.20",$62.24,Delivered,8/25/2024,No
+O1150,C964,Male,East,40,Non-fiction,Books,$97.88,1,$97.88,$25.78,In Transit,4/17/2025,No
+O1151,C120,Female,East,41,Jacket,Clothing,$693.10,1,$693.10,$25.34,In Transit,5/11/2025,No
+O1152,C143,Female,East,50,Jeans,Clothing,$415.38,2,$830.76,$50.53,Returned,1/9/2025,Yes
+O1153,C719,Male,South,62,Headphones,Electronics,$758.60,1,$758.60,$37.08,Delivered,11/3/2024,No
+O1154,C582,Male,North,22,Fiction,Books,$981.42,3,"$2,944.26",$93.45,Delivered,4/18/2025,No
+O1155,C352,Male,East,51,Non-fiction,Books,$242.30,4,$969.20,$97.67,Delivered,9/16/2024,No
+O1156,C937,Female,West,42,T-Shirt,Clothing,$29.83,4,$119.32,$93.43,Delivered,2/17/2025,No
+O1157,C614,Male,East,21,Non-fiction,Books,$544.56,1,$544.56,$70.44,Delivered,2/20/2025,No
+O1158,C208,Male,East,43,Jeans,Clothing,$102.00,2,$204.00,$18.02,Delivered,7/2/2024,No
+O1159,C464,Female,West,65,Phone,Electronics,$757.72,1,$757.72,$64.76,Returned,2/10/2025,Yes
+O1160,C144,Male,North,19,Jacket,Clothing,$511.77,4,"$2,047.08",$73.79,Delivered,2/27/2025,No
+O1161,C331,Female,North,46,Fiction,Books,$45.80,1,$45.80,$30.46,Delivered,1/24/2025,No
+O1162,C490,Female,West,50,Fiction,Books,$348.26,1,$348.26,$17.89,In Transit,4/25/2025,No
+O1163,C330,Female,North,25,T-Shirt,Clothing,$937.59,1,$937.59,$55.88,Delivered,10/7/2024,No
+O1164,C839,Male,South,26,T-Shirt,Clothing,$827.03,2,"$1,654.06",$50.25,Delivered,8/29/2024,No
+O1165,C449,Male,East,19,Headphones,Electronics,$604.59,3,"$1,813.77",$24.56,Delivered,5/19/2025,No
+O1166,C628,Female,West,26,Laptop,Electronics,$788.41,3,"$2,365.23",$99.29,In Transit,5/14/2025,No
+O1167,C375,Female,South,60,Jacket,Clothing,$852.91,2,"$1,705.82",$55.10,Delivered,8/25/2024,No
+O1168,C898,Female,South,57,Phone,Electronics,$403.21,2,$806.42,$83.57,Delivered,5/14/2025,No
+O1169,C841,Female,South,23,Jacket,Clothing,$386.82,4,"$1,547.28",$57.92,Delivered,5/24/2025,No
+O1170,C351,Male,North,41,Lamp,Home,$724.21,3,"$2,172.63",$81.10,Delivered,8/24/2024,No
+O1171,C416,Male,East,35,Headphones,Electronics,$311.63,1,$311.63,$39.03,Delivered,2/7/2025,No
+O1172,C562,Female,East,28,Sofa,Home,$32.66,3,$97.98,$72.55,Delivered,2/18/2025,No
+O1173,C305,Female,South,29,Sofa,Home,$352.64,4,"$1,410.56",$61.57,Returned,8/31/2024,Yes
+O1174,C360,Female,South,38,Textbook,Books,$933.40,2,"$1,866.80",$21.93,Delivered,4/12/2025,No
+O1175,C295,Female,South,61,Jacket,Clothing,$863.39,4,"$3,453.56",$64.57,Delivered,7/17/2024,No
+O1176,C749,Male,South,35,Phone,Electronics,$147.81,4,$591.24,$78.83,Delivered,1/19/2025,No
+O1177,C320,Male,North,23,Laptop,Electronics,$183.09,3,$549.27,$95.75,Delivered,7/20/2024,No
+O1178,C778,Male,North,47,T-Shirt,Clothing,$826.95,1,$826.95,$43.08,Delivered,3/23/2025,No
+O1179,C248,Female,North,22,Non-fiction,Books,$77.49,2,$154.98,$55.55,Delivered,10/31/2024,No
+O1180,C466,Male,North,24,T-Shirt,Clothing,$240.23,1,$240.23,$59.46,Delivered,10/5/2024,No
+O1181,C512,Female,North,47,Headphones,Electronics,$966.16,4,"$3,864.64",$63.49,In Transit,12/7/2024,No
+O1182,C816,Male,West,44,Fiction,Books,$937.08,4,"$3,748.32",$49.56,Delivered,5/9/2025,No
+O1183,C254,Male,North,39,Jacket,Clothing,$114.61,2,$229.22,$10.03,Delivered,10/31/2024,No
+O1184,C459,Female,North,53,Jacket,Clothing,$27.51,2,$55.02,$68.52,In Transit,8/12/2024,No
+O1185,C117,Male,South,37,Lamp,Home,$160.50,3,$481.50,$60.80,Delivered,12/20/2024,No
+O1186,C954,Male,North,59,Lamp,Home,$199.86,1,$199.86,$15.23,Delivered,3/4/2025,No
+O1187,C227,Male,West,63,Jacket,Clothing,$994.92,1,$994.92,$65.75,Delivered,1/13/2025,No
+O1188,C243,Male,West,55,Jeans,Clothing,$304.38,3,$913.14,$31.53,In Transit,9/26/2024,No
+O1189,C893,Male,East,31,Desk,Home,$150.83,1,$150.83,$80.44,Delivered,10/13/2024,No
+O1190,C761,Male,West,18,Lamp,Home,$272.73,3,$818.19,$72.29,Delivered,11/17/2024,No
+O1191,C571,Female,West,65,Sneakers,Clothing,$71.67,4,$286.68,$66.99,In Transit,9/16/2024,No
+O1192,C945,Male,East,24,Jeans,Clothing,$236.61,1,$236.61,$65.37,Delivered,7/18/2024,No
+O1193,C782,Female,North,40,Non-fiction,Books,$313.19,4,"$1,252.76",$69.02,Delivered,2/7/2025,No
+O1194,C278,Male,West,56,Jacket,Clothing,$849.54,2,"$1,699.08",$21.76,In Transit,5/31/2025,No
+O1195,C988,Female,East,49,Chair,Home,$887.74,2,"$1,775.48",$68.87,In Transit,8/15/2024,No
+O1196,C218,Female,South,33,T-Shirt,Clothing,$360.69,3,"$1,082.07",$47.27,Returned,9/6/2024,Yes
+O1197,C503,Male,North,21,Textbook,Books,$829.26,1,$829.26,$44.84,Delivered,2/27/2025,No
+O1198,C701,Female,West,57,Desk,Home,$964.18,3,"$2,892.54",$47.45,In Transit,9/11/2024,No
+O1199,C435,Male,South,51,Magazine,Books,$486.53,2,$973.06,$81.13,Delivered,11/24/2024,No
+O1200,C317,Female,South,48,Tablet,Electronics,$586.33,3,"$1,758.99",$22.34,Delivered,5/14/2025,No
+O1201,C787,Female,West,18,Sneakers,Clothing,$539.96,1,$539.96,$39.12,In Transit,8/4/2024,No
+O1202,C250,Female,East,45,Fiction,Books,$835.96,1,$835.96,$97.83,In Transit,1/21/2025,No
+O1203,C839,Female,East,30,Magazine,Books,$803.52,1,$803.52,$13.84,Delivered,6/30/2024,No
+O1204,C286,Male,West,54,Tablet,Electronics,$377.69,1,$377.69,$59.32,Delivered,7/17/2024,No
+O1205,C167,Female,South,32,Fiction,Books,$459.83,4,"$1,839.32",$33.94,In Transit,1/29/2025,No
+O1206,C320,Female,West,54,Lamp,Home,$157.75,2,$315.50,$23.50,Delivered,1/8/2025,No
+O1207,C885,Female,East,62,Magazine,Books,$331.43,4,"$1,325.72",$68.65,Delivered,12/21/2024,No
+O1208,C435,Male,East,28,Non-fiction,Books,$812.58,1,$812.58,$45.50,Delivered,4/9/2025,No
+O1209,C983,Male,West,35,Magazine,Books,$464.85,1,$464.85,$96.06,Delivered,2/14/2025,No
+O1210,C876,Female,East,52,Lamp,Home,$141.81,4,$567.24,$80.82,Delivered,3/11/2025,No
+O1211,C547,Female,South,19,Jeans,Clothing,$322.25,1,$322.25,$82.80,In Transit,1/3/2025,No
+O1212,C597,Female,East,43,Desk,Home,$85.65,1,$85.65,$85.68,Delivered,4/16/2025,No
+O1213,C265,Male,West,29,Fiction,Books,$48.04,4,$192.16,$80.31,Delivered,5/1/2025,No
+O1214,C186,Female,North,51,Magazine,Books,$826.88,3,"$2,480.64",$69.34,Delivered,12/10/2024,No
+O1215,C995,Female,East,48,Jacket,Clothing,$896.17,4,"$3,584.68",$30.43,In Transit,9/9/2024,No
+O1216,C740,Female,East,53,Sneakers,Clothing,$890.50,3,"$2,671.50",$56.66,Delivered,1/31/2025,No
+O1217,C613,Male,West,41,Lamp,Home,$158.67,4,$634.68,$98.94,In Transit,1/25/2025,No
+O1218,C505,Male,East,58,Sofa,Home,$448.84,4,"$1,795.36",$13.75,Delivered,6/23/2024,No
+O1219,C683,Female,South,35,Headphones,Electronics,$93.94,3,$281.82,$69.31,Delivered,10/1/2024,No
+O1220,C989,Male,South,53,Phone,Electronics,$804.11,3,"$2,412.33",$11.09,Delivered,7/15/2024,No
+O1221,C609,Male,South,24,Laptop,Electronics,$956.94,1,$956.94,$44.88,Delivered,3/2/2025,No
+O1222,C242,Male,North,65,Magazine,Books,$467.33,4,"$1,869.32",$41.47,Delivered,1/11/2025,No
+O1223,C117,Male,South,60,Chair,Home,$776.91,3,"$2,330.73",$80.55,In Transit,5/4/2025,No
+O1224,C800,Female,West,35,Textbook,Books,$361.29,2,$722.58,$18.86,In Transit,9/13/2024,No
+O1225,C666,Male,West,63,Magazine,Books,$663.70,4,"$2,654.80",$16.18,In Transit,12/24/2024,No
+O1226,C188,Female,North,55,Magazine,Books,$430.05,3,"$1,290.15",$17.40,Delivered,3/18/2025,No
+O1227,C991,Male,South,65,Tablet,Electronics,$968.18,3,"$2,904.54",$80.42,In Transit,4/12/2025,No
+O1228,C656,Male,East,54,Magazine,Books,$235.56,1,$235.56,$44.37,In Transit,12/2/2024,No
+O1229,C929,Female,South,58,Fiction,Books,$213.63,1,$213.63,$32.99,Delivered,6/10/2025,No
+O1230,C322,Male,South,36,Sofa,Home,$268.11,1,$268.11,$67.95,Delivered,6/29/2024,No
+O1231,C142,Female,East,55,Tablet,Electronics,$535.00,2,"$1,070.00",$90.62,Delivered,9/12/2024,No
+O1232,C442,Female,West,40,Laptop,Electronics,$328.99,4,"$1,315.96",$36.35,Delivered,4/24/2025,No
+O1233,C566,Female,West,35,Fiction,Books,$980.17,2,"$1,960.34",$53.74,Delivered,6/18/2025,No
+O1234,C284,Female,South,21,Magazine,Books,$921.09,4,"$3,684.36",$83.06,Delivered,5/25/2025,No
+O1235,C887,Female,West,45,Fiction,Books,$659.91,3,"$1,979.73",$13.94,Delivered,11/30/2024,No
+O1236,C964,Female,South,55,Sneakers,Clothing,$119.70,2,$239.40,$30.22,Returned,9/24/2024,Yes
+O1237,C464,Male,East,51,Jeans,Clothing,$378.45,3,"$1,135.35",$59.51,Delivered,9/24/2024,No
+O1238,C249,Female,West,58,T-Shirt,Clothing,$394.77,2,$789.54,$94.88,Delivered,12/21/2024,No
+O1239,C175,Male,North,25,Tablet,Electronics,$248.29,1,$248.29,$70.84,Delivered,11/28/2024,No
+O1240,C463,Male,East,62,Desk,Home,$501.09,1,$501.09,$68.12,Delivered,6/14/2025,No
+O1241,C502,Male,North,49,Magazine,Books,$293.05,4,"$1,172.20",$38.52,Delivered,12/27/2024,No
+O1242,C217,Male,West,60,Non-fiction,Books,$880.48,4,"$3,521.92",$92.70,Delivered,3/3/2025,No
+O1243,C544,Female,South,46,Fiction,Books,$259.72,1,$259.72,$29.90,Delivered,8/11/2024,No
+O1244,C476,Female,West,37,Sneakers,Clothing,$978.61,2,"$1,957.22",$75.56,Delivered,3/3/2025,No
+O1245,C901,Female,West,43,Textbook,Books,$778.68,4,"$3,114.72",$14.85,Delivered,8/11/2024,No
+O1246,C362,Female,East,33,Laptop,Electronics,$326.86,2,$653.72,$98.62,In Transit,6/3/2025,No
+O1247,C122,Female,East,43,Sofa,Home,$938.01,1,$938.01,$75.52,In Transit,8/14/2024,No
+O1248,C907,Female,North,50,Phone,Electronics,$116.86,1,$116.86,$75.34,Delivered,1/22/2025,No
+O1249,C278,Female,East,33,Headphones,Electronics,$819.61,3,"$2,458.83",$53.96,Delivered,5/28/2025,No
+O1250,C496,Female,South,19,Tablet,Electronics,$159.17,4,$636.68,$75.95,Delivered,1/3/2025,No
+O1251,C467,Male,North,47,Chair,Home,$546.81,1,$546.81,$76.91,Delivered,10/24/2024,No
+O1252,C145,Female,East,51,Non-fiction,Books,$615.82,2,"$1,231.64",$60.85,Delivered,2/6/2025,No
+O1253,C742,Male,West,18,Magazine,Books,$692.00,3,"$2,076.00",$61.95,In Transit,12/28/2024,No
+O1254,C490,Male,East,24,Phone,Electronics,$878.37,1,$878.37,$24.41,Delivered,5/23/2025,No
+O1255,C381,Male,West,62,Sofa,Home,$466.94,4,"$1,867.76",$83.06,Delivered,8/29/2024,No
+O1256,C166,Male,West,20,Phone,Electronics,$744.29,3,"$2,232.87",$99.26,Delivered,5/6/2025,No
+O1257,C654,Male,South,59,Tablet,Electronics,$108.19,4,$432.76,$89.18,Delivered,6/13/2025,No
+O1258,C376,Male,West,53,Textbook,Books,$660.98,1,$660.98,$59.96,Delivered,2/20/2025,No
+O1259,C461,Female,East,49,Phone,Electronics,$735.74,3,"$2,207.22",$65.35,In Transit,4/19/2025,No
+O1260,C973,Male,West,35,Textbook,Books,$691.01,4,"$2,764.04",$80.54,Delivered,11/13/2024,No
+O1261,C813,Male,East,46,Fiction,Books,$558.68,2,"$1,117.36",$86.32,In Transit,6/6/2025,No
+O1262,C292,Male,East,45,Fiction,Books,$841.56,4,"$3,366.24",$77.12,Returned,2/9/2025,Yes
+O1263,C177,Male,West,52,Jeans,Clothing,$210.46,2,$420.92,$78.28,Delivered,6/22/2024,No
+O1264,C661,Male,South,19,Jeans,Clothing,$681.60,4,"$2,726.40",$23.40,Delivered,4/17/2025,No
+O1265,C138,Female,South,57,Desk,Home,$312.55,4,"$1,250.20",$55.18,Returned,6/5/2025,Yes
+O1266,C583,Male,North,27,Headphones,Electronics,$133.47,3,$400.41,$50.37,Delivered,3/4/2025,No
+O1267,C268,Female,East,48,Lamp,Home,$724.85,4,"$2,899.40",$29.55,Delivered,11/5/2024,No
+O1268,C427,Female,West,37,Headphones,Electronics,$146.44,2,$292.88,$47.14,Delivered,12/16/2024,No
+O1269,C742,Male,South,58,Fiction,Books,$698.66,1,$698.66,$12.62,Delivered,11/20/2024,No
+O1270,C859,Male,South,59,Non-fiction,Books,$175.22,4,$700.88,$81.48,Delivered,9/23/2024,No
+O1271,C824,Male,South,34,Tablet,Electronics,$102.06,3,$306.18,$88.68,Delivered,12/7/2024,No
+O1272,C235,Male,North,47,T-Shirt,Clothing,$515.01,3,"$1,545.03",$15.84,Delivered,1/19/2025,No
+O1273,C654,Male,West,55,Jacket,Clothing,$584.18,3,"$1,752.54",$73.26,Delivered,6/14/2025,No
+O1274,C708,Female,South,35,Chair,Home,$62.28,4,$249.12,$70.88,In Transit,7/22/2024,No
+O1275,C740,Male,West,52,Desk,Home,$806.94,3,"$2,420.82",$12.06,Delivered,12/7/2024,No
+O1276,C447,Male,North,53,Magazine,Books,$328.89,3,$986.67,$16.94,Delivered,1/4/2025,No
+O1277,C340,Male,South,43,Textbook,Books,$67.97,1,$67.97,$77.13,Delivered,9/2/2024,No
+O1278,C297,Male,West,53,Headphones,Electronics,$982.15,1,$982.15,$80.98,Delivered,9/6/2024,No
+O1279,C213,Female,East,60,Non-fiction,Books,$522.10,4,"$2,088.40",$43.61,Delivered,10/16/2024,No
+O1280,C980,Female,South,29,Textbook,Books,$131.15,1,$131.15,$49.06,Delivered,1/13/2025,No
+O1281,C729,Female,South,57,Sneakers,Clothing,$97.71,4,$390.84,$15.63,In Transit,9/2/2024,No
+O1282,C303,Male,West,64,Lamp,Home,$803.35,3,"$2,410.05",$99.85,Delivered,8/23/2024,No
+O1283,C303,Male,West,19,Lamp,Home,$933.78,1,$933.78,$25.61,Delivered,11/7/2024,No
+O1284,C283,Female,West,55,Magazine,Books,$641.18,4,"$2,564.72",$80.71,Delivered,7/4/2024,No
+O1285,C499,Female,East,45,Jacket,Clothing,$127.15,2,$254.30,$99.20,In Transit,8/26/2024,No
+O1286,C797,Male,South,44,Sofa,Home,$749.75,3,"$2,249.25",$61.47,Delivered,7/18/2024,No
+O1287,C112,Male,East,18,Headphones,Electronics,$591.89,1,$591.89,$60.90,Delivered,8/6/2024,No
+O1288,C106,Female,East,40,Tablet,Electronics,$979.85,3,"$2,939.55",$12.36,Delivered,2/26/2025,No
+O1289,C966,Male,West,31,T-Shirt,Clothing,$33.95,2,$67.90,$62.78,Delivered,5/11/2025,No
+O1290,C945,Female,East,18,Jacket,Clothing,$700.69,3,"$2,102.07",$36.89,Delivered,4/14/2025,No
+O1291,C793,Female,South,27,Sneakers,Clothing,$941.27,2,"$1,882.54",$86.75,Delivered,8/8/2024,No
+O1292,C686,Male,South,42,Textbook,Books,$233.29,1,$233.29,$85.77,Delivered,10/11/2024,No
+O1293,C740,Male,West,26,Chair,Home,$194.24,1,$194.24,$49.17,In Transit,9/12/2024,No
+O1294,C861,Male,West,38,Lamp,Home,$937.98,4,"$3,751.92",$22.01,Delivered,5/30/2025,No
+O1295,C230,Female,West,33,Lamp,Home,$89.80,3,$269.40,$91.35,In Transit,12/25/2024,No
+O1296,C379,Male,South,58,T-Shirt,Clothing,$910.30,4,"$3,641.20",$75.66,Delivered,5/3/2025,No
+O1297,C887,Male,South,64,Sneakers,Clothing,$767.86,2,"$1,535.72",$30.27,In Transit,12/20/2024,No
+O1298,C645,Male,East,37,T-Shirt,Clothing,$140.04,1,$140.04,$77.62,Delivered,10/4/2024,No
+O1299,C146,Male,South,55,Desk,Home,$660.39,4,"$2,641.56",$11.21,Delivered,2/21/2025,No
+O1300,C929,Female,North,47,Chair,Home,$289.92,2,$579.84,$35.40,In Transit,8/14/2024,No
+O1301,C931,Male,South,29,Sneakers,Clothing,$269.09,3,$807.27,$34.81,Returned,8/20/2024,Yes
+O1302,C634,Male,North,42,Textbook,Books,$789.26,2,"$1,578.52",$34.48,Returned,1/31/2025,Yes
+O1303,C804,Female,East,58,Fiction,Books,$761.80,2,"$1,523.60",$86.03,Returned,8/2/2024,Yes
+O1304,C147,Male,South,63,Magazine,Books,$275.46,1,$275.46,$53.88,Delivered,8/23/2024,No
+O1305,C303,Female,North,49,Phone,Electronics,$43.28,4,$173.12,$65.77,Delivered,8/7/2024,No
+O1306,C436,Male,South,38,Tablet,Electronics,$566.37,1,$566.37,$57.92,Delivered,12/25/2024,No
+O1307,C836,Female,South,55,Phone,Electronics,$416.98,3,"$1,250.94",$17.78,Delivered,3/5/2025,No
+O1308,C894,Female,North,41,Laptop,Electronics,$244.42,4,$977.68,$69.74,Delivered,5/19/2025,No
+O1309,C696,Female,East,24,T-Shirt,Clothing,$963.76,3,"$2,891.28",$89.39,Delivered,2/9/2025,No
+O1310,C714,Male,East,19,T-Shirt,Clothing,$399.51,2,$799.02,$47.69,Delivered,3/24/2025,No
+O1311,C620,Female,West,27,Desk,Home,$267.56,1,$267.56,$54.50,Delivered,2/14/2025,No
+O1312,C386,Female,South,39,Fiction,Books,$979.76,1,$979.76,$68.88,Delivered,3/23/2025,No
+O1313,C324,Female,North,43,Tablet,Electronics,$206.12,4,$824.48,$40.44,Delivered,2/16/2025,No
+O1314,C427,Female,East,47,Desk,Home,$315.61,1,$315.61,$64.77,Delivered,8/26/2024,No
+O1315,C281,Female,South,37,Chair,Home,$356.01,1,$356.01,$11.98,Delivered,11/18/2024,No
+O1316,C370,Male,East,60,Desk,Home,$722.81,3,"$2,168.43",$32.59,Returned,10/20/2024,Yes
+O1317,C981,Female,South,48,Laptop,Electronics,$852.11,3,"$2,556.33",$59.06,Delivered,9/30/2024,No
+O1318,C188,Male,West,56,Desk,Home,$980.71,1,$980.71,$87.41,Delivered,11/22/2024,No
+O1319,C120,Female,South,51,Chair,Home,$725.59,1,$725.59,$81.25,In Transit,4/17/2025,No
+O1320,C851,Male,North,34,Textbook,Books,$553.35,2,"$1,106.70",$17.36,In Transit,10/26/2024,No
+O1321,C822,Male,South,28,Sneakers,Clothing,$463.72,1,$463.72,$48.58,Delivered,5/8/2025,No
+O1322,C878,Male,East,30,Tablet,Electronics,$149.55,2,$299.10,$86.50,Returned,8/6/2024,Yes
+O1323,C665,Male,North,51,Sofa,Home,$672.33,2,"$1,344.66",$87.58,Delivered,10/22/2024,No
+O1324,C267,Female,East,28,Phone,Electronics,$465.56,3,"$1,396.68",$59.09,Delivered,1/4/2025,No
+O1325,C860,Male,West,62,Jacket,Clothing,$71.65,4,$286.60,$20.07,Delivered,1/2/2025,No
+O1326,C977,Female,South,24,Non-fiction,Books,$362.41,3,"$1,087.23",$14.68,In Transit,3/14/2025,No
+O1327,C779,Male,West,31,Sofa,Home,$788.42,4,"$3,153.68",$40.58,Returned,9/25/2024,Yes
+O1328,C156,Male,West,20,Jacket,Clothing,$873.41,2,"$1,746.82",$39.72,Delivered,12/8/2024,No
+O1329,C851,Female,West,33,Jacket,Clothing,$759.18,2,"$1,518.36",$11.62,Returned,7/7/2024,Yes
+O1330,C474,Male,West,24,Sofa,Home,$134.99,3,$404.97,$89.16,In Transit,9/20/2024,No
+O1331,C549,Male,South,48,Jacket,Clothing,$871.87,3,"$2,615.61",$95.20,In Transit,7/17/2024,No
+O1332,C724,Male,West,46,Fiction,Books,$564.58,4,"$2,258.32",$79.48,Delivered,5/4/2025,No
+O1333,C528,Male,South,45,Phone,Electronics,$36.90,1,$36.90,$18.47,Delivered,5/4/2025,No
+O1334,C639,Male,North,40,Tablet,Electronics,$350.23,4,"$1,400.92",$58.48,Delivered,12/2/2024,No
+O1335,C655,Female,North,41,Chair,Home,$502.83,2,"$1,005.66",$43.47,Delivered,2/22/2025,No
+O1336,C649,Male,North,59,Jacket,Clothing,$457.18,3,"$1,371.54",$44.24,Delivered,10/21/2024,No
+O1337,C605,Male,West,60,T-Shirt,Clothing,$777.86,3,"$2,333.58",$27.60,In Transit,5/28/2025,No
+O1338,C814,Female,North,54,Magazine,Books,$194.86,4,$779.44,$35.84,Returned,2/28/2025,Yes
+O1339,C691,Female,South,27,Chair,Home,$794.93,4,"$3,179.72",$34.88,In Transit,1/20/2025,No
+O1340,C458,Female,North,61,Jeans,Clothing,$319.23,1,$319.23,$45.64,Delivered,12/24/2024,No
+O1341,C903,Female,North,52,Phone,Electronics,$915.94,4,"$3,663.76",$56.82,Delivered,2/20/2025,No
+O1342,C897,Female,North,31,Jeans,Clothing,$453.13,2,$906.26,$81.39,Delivered,10/15/2024,No
+O1343,C856,Female,West,59,Sneakers,Clothing,$323.59,3,$970.77,$42.68,Delivered,1/31/2025,No
+O1344,C804,Male,South,57,Tablet,Electronics,$898.21,3,"$2,694.63",$98.52,Delivered,9/12/2024,No
+O1345,C783,Male,South,40,Tablet,Electronics,$149.30,1,$149.30,$13.00,Delivered,2/11/2025,No
+O1346,C566,Female,West,38,Sneakers,Clothing,$370.06,4,"$1,480.24",$68.89,Delivered,9/6/2024,No
+O1347,C738,Female,South,38,Non-fiction,Books,$160.58,4,$642.32,$81.87,Delivered,2/11/2025,No
+O1348,C988,Male,West,40,Phone,Electronics,$968.08,3,"$2,904.24",$89.42,Returned,9/28/2024,Yes
+O1349,C575,Female,West,49,T-Shirt,Clothing,$805.57,2,"$1,611.14",$38.77,Delivered,12/25/2024,No
+O1350,C152,Male,North,47,Lamp,Home,$988.53,1,$988.53,$98.57,Returned,3/1/2025,Yes
+O1351,C553,Male,North,49,Sofa,Home,$671.24,1,$671.24,$39.07,Delivered,9/1/2024,No
+O1352,C586,Male,North,22,Sofa,Home,$997.11,2,"$1,994.22",$48.47,In Transit,12/27/2024,No
+O1353,C608,Female,South,63,Lamp,Home,$170.61,3,$511.83,$71.82,In Transit,7/26/2024,No
+O1354,C161,Female,West,46,Sofa,Home,$102.10,4,$408.40,$74.74,In Transit,11/24/2024,No
+O1355,C170,Female,West,45,Magazine,Books,$891.36,2,"$1,782.72",$44.11,Delivered,1/7/2025,No
+O1356,C735,Female,North,38,Magazine,Books,$973.72,4,"$3,894.88",$87.24,In Transit,8/21/2024,No
+O1357,C485,Male,North,19,Tablet,Electronics,$820.87,2,"$1,641.74",$19.97,Delivered,5/12/2025,No
+O1358,C133,Male,North,38,Phone,Electronics,$761.99,1,$761.99,$52.41,Delivered,8/31/2024,No
+O1359,C332,Female,West,37,Chair,Home,$823.42,4,"$3,293.68",$38.27,Delivered,9/27/2024,No
+O1360,C749,Female,West,28,Magazine,Books,$261.78,2,$523.56,$84.54,Delivered,4/13/2025,No
+O1361,C306,Female,West,54,Fiction,Books,$341.86,2,$683.72,$31.99,Returned,6/21/2025,Yes
+O1362,C243,Female,North,33,Phone,Electronics,$121.81,2,$243.62,$19.06,In Transit,2/21/2025,No
+O1363,C323,Female,South,34,Sneakers,Clothing,$247.48,4,$989.92,$91.48,Delivered,11/26/2024,No
+O1364,C640,Male,North,27,Sofa,Home,$742.27,2,"$1,484.54",$77.39,Delivered,2/21/2025,No
+O1365,C929,Female,North,59,Chair,Home,$654.64,4,"$2,618.56",$61.95,Delivered,4/13/2025,No
+O1366,C909,Female,East,51,Textbook,Books,$740.69,4,"$2,962.76",$52.42,Delivered,11/23/2024,No
+O1367,C731,Female,South,51,Textbook,Books,$979.31,3,"$2,937.93",$12.80,Delivered,10/29/2024,No
+O1368,C918,Male,North,36,Headphones,Electronics,$741.90,2,"$1,483.80",$39.26,Delivered,5/17/2025,No
+O1369,C994,Male,West,25,Tablet,Electronics,$689.46,4,"$2,757.84",$71.35,Delivered,2/18/2025,No
+O1370,C786,Male,North,39,Lamp,Home,$175.46,4,$701.84,$30.45,Delivered,7/7/2024,No
+O1371,C441,Female,East,30,Jeans,Clothing,$838.67,3,"$2,516.01",$16.94,Delivered,5/14/2025,No
+O1372,C836,Male,West,29,Desk,Home,$346.98,2,$693.96,$56.14,Delivered,9/29/2024,No
+O1373,C664,Female,North,49,Desk,Home,$312.26,3,$936.78,$16.17,Delivered,7/25/2024,No
+O1374,C909,Female,South,19,Non-fiction,Books,$765.52,1,$765.52,$68.78,Delivered,6/22/2024,No
+O1375,C724,Female,East,36,Non-fiction,Books,$938.92,4,"$3,755.68",$30.95,Delivered,10/27/2024,No
+O1376,C408,Female,South,38,Laptop,Electronics,$809.32,4,"$3,237.28",$69.85,Delivered,5/17/2025,No
+O1377,C842,Male,East,26,Chair,Home,$267.68,1,$267.68,$88.68,Delivered,7/18/2024,No
+O1378,C643,Male,South,25,Jeans,Clothing,$10.19,3,$30.57,$19.99,In Transit,2/16/2025,No
+O1379,C675,Male,South,47,Desk,Home,$452.58,2,$905.16,$30.41,In Transit,3/1/2025,No
+O1380,C950,Male,South,26,Sneakers,Clothing,$387.80,2,$775.60,$44.24,Delivered,2/22/2025,No
+O1381,C455,Female,West,51,Magazine,Books,$977.03,2,"$1,954.06",$53.12,Delivered,7/15/2024,No
+O1382,C591,Male,East,37,Jeans,Clothing,$27.82,4,$111.28,$76.59,Delivered,8/7/2024,No
+O1383,C870,Male,North,37,T-Shirt,Clothing,$918.90,3,"$2,756.70",$21.47,Delivered,5/28/2025,No
+O1384,C155,Male,South,54,Headphones,Electronics,$710.61,2,"$1,421.22",$91.97,Delivered,10/25/2024,No
+O1385,C231,Male,East,55,T-Shirt,Clothing,$756.42,1,$756.42,$85.55,Delivered,2/13/2025,No
+O1386,C486,Male,West,59,Non-fiction,Books,$981.98,2,"$1,963.96",$75.40,In Transit,3/8/2025,No
+O1387,C209,Male,West,47,Jeans,Clothing,$311.70,3,$935.10,$57.94,Delivered,11/29/2024,No
+O1388,C322,Male,North,43,Chair,Home,$638.74,4,"$2,554.96",$20.13,Delivered,4/1/2025,No
+O1389,C512,Female,West,56,Desk,Home,$706.65,1,$706.65,$16.15,Delivered,12/17/2024,No
+O1390,C975,Female,West,52,Laptop,Electronics,$270.68,1,$270.68,$11.12,In Transit,11/10/2024,No
+O1391,C839,Male,East,18,Non-fiction,Books,$474.08,1,$474.08,$84.21,Delivered,8/25/2024,No
+O1392,C313,Male,South,51,Tablet,Electronics,$83.50,1,$83.50,$36.99,Delivered,6/10/2025,No
+O1393,C925,Male,North,40,Sofa,Home,$745.76,4,"$2,983.04",$15.80,Delivered,10/22/2024,No
+O1394,C353,Male,East,33,T-Shirt,Clothing,$878.47,2,"$1,756.94",$70.10,Delivered,6/20/2025,No
+O1395,C414,Female,West,23,Desk,Home,$597.29,1,$597.29,$99.01,Delivered,2/20/2025,No
+O1396,C202,Female,North,24,Laptop,Electronics,$629.91,4,"$2,519.64",$31.56,Delivered,11/22/2024,No
+O1397,C171,Female,West,40,Textbook,Books,$796.63,2,"$1,593.26",$48.63,Delivered,10/20/2024,No
+O1398,C802,Female,West,51,Magazine,Books,$275.10,2,$550.20,$87.01,In Transit,9/11/2024,No
+O1399,C318,Female,East,61,Jacket,Clothing,$526.23,1,$526.23,$32.71,Returned,3/3/2025,Yes
+O1400,C295,Female,East,62,Chair,Home,$228.02,4,$912.08,$20.34,Delivered,5/4/2025,No
+O1401,C858,Female,South,18,Non-fiction,Books,$102.92,1,$102.92,$12.94,Delivered,12/31/2024,No
+O1402,C571,Male,South,35,Textbook,Books,$869.87,2,"$1,739.74",$89.11,In Transit,11/4/2024,No
+O1403,C780,Male,North,37,Headphones,Electronics,$576.05,1,$576.05,$72.50,Returned,3/23/2025,Yes
+O1404,C190,Female,East,65,Non-fiction,Books,$91.38,2,$182.76,$49.11,Delivered,4/19/2025,No
+O1405,C164,Male,South,37,Phone,Electronics,$776.14,1,$776.14,$40.67,In Transit,11/6/2024,No
+O1406,C391,Male,South,27,Jeans,Clothing,$173.18,2,$346.36,$64.64,Delivered,12/13/2024,No
+O1407,C830,Female,North,48,Jacket,Clothing,$634.99,4,"$2,539.96",$80.99,Delivered,10/3/2024,No
+O1408,C730,Male,West,57,Sofa,Home,$643.21,3,"$1,929.63",$56.11,In Transit,5/13/2025,No
+O1409,C192,Female,North,51,T-Shirt,Clothing,$113.18,2,$226.36,$80.81,In Transit,12/19/2024,No
+O1410,C149,Male,East,31,Textbook,Books,$971.06,4,"$3,884.24",$95.55,In Transit,5/25/2025,No
+O1411,C362,Female,North,33,Phone,Electronics,$604.64,3,"$1,813.92",$98.55,Delivered,12/22/2024,No
+O1412,C382,Male,West,27,Jeans,Clothing,$276.27,2,$552.54,$16.38,Delivered,10/5/2024,No
+O1413,C181,Male,North,28,Tablet,Electronics,$261.85,1,$261.85,$13.58,Delivered,12/4/2024,No
+O1414,C210,Male,East,22,Sneakers,Clothing,$608.03,3,"$1,824.09",$22.60,Returned,8/20/2024,Yes
+O1415,C788,Female,East,47,Tablet,Electronics,$284.05,1,$284.05,$50.54,In Transit,5/7/2025,No
+O1416,C481,Male,North,46,T-Shirt,Clothing,$478.24,3,"$1,434.72",$27.65,Delivered,9/20/2024,No
+O1417,C371,Female,East,64,Laptop,Electronics,$614.67,1,$614.67,$52.69,Delivered,4/16/2025,No
+O1418,C329,Female,North,54,Tablet,Electronics,$594.96,1,$594.96,$10.50,Delivered,10/4/2024,No
+O1419,C194,Female,East,19,Desk,Home,$17.59,2,$35.18,$85.00,Delivered,12/25/2024,No
+O1420,C242,Female,East,52,T-Shirt,Clothing,$845.49,1,$845.49,$40.50,Delivered,6/29/2024,No
+O1421,C307,Male,South,26,Textbook,Books,$804.56,1,$804.56,$29.67,Delivered,6/27/2024,No
+O1422,C156,Female,South,47,Desk,Home,$402.83,2,$805.66,$93.86,Returned,2/4/2025,Yes
+O1423,C272,Male,North,23,Textbook,Books,$403.04,1,$403.04,$35.61,Delivered,11/7/2024,No
+O1424,C578,Female,North,22,Jacket,Clothing,$820.02,1,$820.02,$41.07,Delivered,3/10/2025,No
+O1425,C611,Male,North,26,Non-fiction,Books,$512.34,1,$512.34,$12.67,In Transit,3/17/2025,No
+O1426,C779,Male,South,27,Magazine,Books,$678.67,2,"$1,357.34",$99.35,Delivered,9/19/2024,No
+O1427,C552,Male,North,28,Chair,Home,$140.17,2,$280.34,$24.87,Delivered,4/7/2025,No
+O1428,C409,Female,North,30,Tablet,Electronics,$395.97,3,"$1,187.91",$46.99,In Transit,6/29/2024,No
+O1429,C958,Female,South,38,Tablet,Electronics,$908.53,1,$908.53,$33.24,Returned,7/23/2024,Yes
+O1430,C531,Female,North,42,Lamp,Home,$677.86,1,$677.86,$84.14,In Transit,3/25/2025,No
+O1431,C106,Female,East,39,Fiction,Books,$955.51,2,"$1,911.02",$74.93,Delivered,8/21/2024,No
+O1432,C328,Male,South,25,Jacket,Clothing,$864.25,2,"$1,728.50",$14.60,In Transit,4/21/2025,No
+O1433,C812,Female,West,60,Chair,Home,$265.03,3,$795.09,$13.65,Returned,10/28/2024,Yes
+O1434,C984,Male,South,59,Sofa,Home,$872.88,2,"$1,745.76",$20.30,Returned,1/24/2025,Yes
+O1435,C913,Male,West,20,Sneakers,Clothing,$390.00,3,"$1,170.00",$69.64,In Transit,10/22/2024,No
+O1436,C401,Male,North,21,Desk,Home,$101.36,3,$304.08,$47.71,In Transit,5/30/2025,No
+O1437,C518,Male,West,55,Laptop,Electronics,$753.67,1,$753.67,$46.38,Returned,1/28/2025,Yes
+O1438,C400,Male,East,32,Fiction,Books,$327.87,1,$327.87,$94.76,In Transit,2/22/2025,No
+O1439,C931,Male,North,31,Sofa,Home,$671.89,1,$671.89,$68.18,Delivered,12/13/2024,No
+O1440,C783,Male,East,63,Headphones,Electronics,$889.16,1,$889.16,$10.91,Returned,5/4/2025,Yes
+O1441,C462,Female,South,40,Tablet,Electronics,$639.74,2,"$1,279.48",$20.42,Delivered,8/12/2024,No
+O1442,C343,Male,North,63,Textbook,Books,$162.78,3,$488.34,$75.16,Delivered,8/5/2024,No
+O1443,C285,Male,South,51,Magazine,Books,$129.35,2,$258.70,$57.70,In Transit,1/9/2025,No
+O1444,C885,Male,East,60,Chair,Home,$830.73,2,"$1,661.46",$22.79,Delivered,6/6/2025,No
+O1445,C972,Female,South,46,Textbook,Books,$21.59,2,$43.18,$57.92,Delivered,6/15/2025,No
+O1446,C352,Female,East,46,T-Shirt,Clothing,$454.36,3,"$1,363.08",$61.95,In Transit,8/27/2024,No
+O1447,C622,Male,North,61,Headphones,Electronics,$53.30,1,$53.30,$82.72,Delivered,3/16/2025,No
+O1448,C101,Male,East,24,Non-fiction,Books,$223.89,1,$223.89,$75.63,In Transit,5/5/2025,No
+O1449,C334,Male,South,65,Headphones,Electronics,$655.77,4,"$2,623.08",$44.87,Delivered,10/19/2024,No
+O1450,C343,Female,North,41,Sofa,Home,$853.32,4,"$3,413.28",$70.57,Delivered,9/15/2024,No
+O1451,C752,Female,West,54,Phone,Electronics,$282.63,1,$282.63,$87.56,Delivered,9/11/2024,No
+O1452,C242,Male,West,38,Sneakers,Clothing,$594.38,4,"$2,377.52",$81.85,Delivered,8/7/2024,No
+O1453,C395,Female,West,41,T-Shirt,Clothing,$824.20,4,"$3,296.80",$62.13,Delivered,10/5/2024,No
+O1454,C389,Male,East,59,Lamp,Home,$761.76,3,"$2,285.28",$38.70,Returned,1/24/2025,Yes
+O1455,C350,Female,West,35,Chair,Home,$586.38,2,"$1,172.76",$43.30,Delivered,6/21/2024,No
+O1456,C288,Female,South,27,Jacket,Clothing,$37.15,4,$148.60,$71.96,Delivered,8/16/2024,No
+O1457,C724,Male,East,65,Tablet,Electronics,$380.81,4,"$1,523.24",$24.91,Delivered,11/20/2024,No
+O1458,C525,Male,South,39,Textbook,Books,$649.28,1,$649.28,$90.11,Delivered,7/6/2024,No
+O1459,C889,Female,North,36,Phone,Electronics,$352.42,4,"$1,409.68",$40.58,Delivered,3/13/2025,No
+O1460,C175,Male,East,43,Tablet,Electronics,$522.07,2,"$1,044.14",$67.32,Delivered,9/9/2024,No
+O1461,C753,Male,North,20,Sneakers,Clothing,$347.20,3,"$1,041.60",$81.25,Delivered,4/1/2025,No
+O1462,C609,Male,East,65,Chair,Home,$600.03,1,$600.03,$70.94,Delivered,2/21/2025,No
+O1463,C461,Female,East,44,Laptop,Electronics,$609.72,2,"$1,219.44",$85.76,Delivered,3/4/2025,No
+O1464,C562,Male,North,30,Fiction,Books,$584.42,2,"$1,168.84",$50.86,Delivered,9/22/2024,No
+O1465,C501,Male,East,47,Non-fiction,Books,$691.39,1,$691.39,$97.48,Delivered,3/16/2025,No
+O1466,C991,Male,East,49,Sofa,Home,$236.20,4,$944.80,$55.49,Delivered,7/1/2024,No
+O1467,C229,Male,West,19,Desk,Home,$964.38,4,"$3,857.52",$18.94,Delivered,11/3/2024,No
+O1468,C972,Male,South,52,Fiction,Books,$216.78,3,$650.34,$44.92,In Transit,3/31/2025,No
+O1469,C992,Female,East,65,Sofa,Home,$168.42,2,$336.84,$38.19,Delivered,2/5/2025,No
+O1470,C590,Female,North,51,Headphones,Electronics,$155.59,1,$155.59,$36.03,Delivered,8/22/2024,No
+O1471,C611,Female,West,55,Headphones,Electronics,$901.08,1,$901.08,$43.34,Returned,5/17/2025,Yes
+O1472,C698,Female,East,48,Non-fiction,Books,$381.06,3,"$1,143.18",$89.96,Returned,2/16/2025,Yes
+O1473,C204,Female,North,44,Phone,Electronics,$606.91,4,"$2,427.64",$59.08,Delivered,1/24/2025,No
+O1474,C219,Female,North,20,T-Shirt,Clothing,$97.32,3,$291.96,$96.50,Delivered,8/5/2024,No
+O1475,C416,Male,North,24,Fiction,Books,$395.59,1,$395.59,$97.37,Delivered,10/23/2024,No
+O1476,C784,Female,South,26,Desk,Home,$775.80,1,$775.80,$23.87,In Transit,1/1/2025,No
+O1477,C879,Male,South,36,Chair,Home,$558.17,2,"$1,116.34",$25.15,Delivered,11/7/2024,No
+O1478,C925,Male,North,40,Headphones,Electronics,$254.44,3,$763.32,$49.64,Delivered,10/3/2024,No
+O1479,C822,Female,West,20,Tablet,Electronics,$309.31,4,"$1,237.24",$73.81,Delivered,6/26/2024,No
+O1480,C157,Female,North,40,Jacket,Clothing,$185.40,1,$185.40,$40.82,Delivered,3/13/2025,No
+O1481,C464,Male,South,51,Sneakers,Clothing,$277.55,4,"$1,110.20",$84.76,Returned,12/3/2024,Yes
+O1482,C167,Male,North,60,Textbook,Books,$549.38,1,$549.38,$62.24,Delivered,11/26/2024,No
+O1483,C332,Male,North,54,Chair,Home,$147.80,3,$443.40,$23.55,In Transit,4/19/2025,No
+O1484,C558,Male,North,30,Headphones,Electronics,$818.59,4,"$3,274.36",$46.16,Delivered,6/9/2025,No
+O1485,C562,Female,West,46,Fiction,Books,$993.91,4,"$3,975.64",$37.04,Delivered,12/26/2024,No
+O1486,C932,Male,East,27,Jacket,Clothing,$332.56,4,"$1,330.24",$65.86,Returned,5/20/2025,Yes
+O1487,C930,Female,East,18,Magazine,Books,$209.30,1,$209.30,$23.32,In Transit,3/15/2025,No
+O1488,C163,Male,South,39,Textbook,Books,$854.03,1,$854.03,$58.87,Returned,3/26/2025,Yes
+O1489,C993,Male,North,41,Sofa,Home,$235.47,4,$941.88,$63.37,Delivered,1/16/2025,No
+O1490,C533,Male,East,62,Headphones,Electronics,$603.13,2,"$1,206.26",$58.00,In Transit,6/5/2025,No
+O1491,C824,Female,North,55,Phone,Electronics,$871.27,1,$871.27,$77.13,Delivered,5/3/2025,No
+O1492,C163,Female,South,19,Laptop,Electronics,$553.83,1,$553.83,$81.48,Delivered,7/15/2024,No
+O1493,C173,Male,West,50,Textbook,Books,$283.01,2,$566.02,$13.10,Delivered,10/26/2024,No
+O1494,C905,Male,East,37,Phone,Electronics,$969.91,3,"$2,909.73",$51.64,Delivered,4/23/2025,No
+O1495,C722,Male,South,52,Jacket,Clothing,$981.18,4,"$3,924.72",$77.92,In Transit,12/2/2024,No
+O1496,C104,Female,South,43,Fiction,Books,$497.01,3,"$1,491.03",$43.78,Delivered,9/20/2024,No
+O1497,C677,Male,East,23,Sneakers,Clothing,$292.93,1,$292.93,$60.64,Delivered,10/11/2024,No
+O1498,C816,Male,South,20,Non-fiction,Books,$446.81,3,"$1,340.43",$56.01,Delivered,4/22/2025,No
+O1499,C603,Male,South,27,Textbook,Books,$497.40,2,$994.80,$75.31,Delivered,6/8/2025,No
+O1500,C994,Male,North,60,Sofa,Home,$895.51,3,"$2,686.53",$46.68,Delivered,1/26/2025,No
+O1501,C713,Male,East,22,Jacket,Clothing,$829.24,3,"$2,487.72",$63.23,Delivered,11/8/2024,No
+O1502,C214,Female,East,36,Phone,Electronics,$808.52,3,"$2,425.56",$28.04,Delivered,9/28/2024,No
+O1503,C815,Female,South,59,Sofa,Home,$118.17,4,$472.68,$10.29,Delivered,5/14/2025,No
+O1504,C528,Female,East,39,Tablet,Electronics,$643.80,1,$643.80,$90.38,Delivered,9/28/2024,No
+O1505,C526,Male,East,60,Magazine,Books,$71.83,2,$143.66,$33.04,Delivered,12/26/2024,No
+O1506,C120,Female,South,57,Sofa,Home,$40.48,3,$121.44,$66.39,Delivered,8/30/2024,No
+O1507,C391,Female,West,65,Fiction,Books,$927.12,4,"$3,708.48",$78.63,Delivered,12/9/2024,No
+O1508,C724,Male,North,29,Jeans,Clothing,$929.96,2,"$1,859.92",$75.04,In Transit,12/16/2024,No
+O1509,C170,Male,North,41,Chair,Home,$695.61,2,"$1,391.22",$66.93,In Transit,10/9/2024,No
+O1510,C168,Female,West,52,Desk,Home,$648.03,4,"$2,592.12",$82.40,Delivered,1/20/2025,No
+O1511,C535,Female,North,61,T-Shirt,Clothing,$285.97,4,"$1,143.88",$57.57,Delivered,10/24/2024,No
+O1512,C281,Male,South,48,Phone,Electronics,$795.46,3,"$2,386.38",$99.80,Delivered,3/21/2025,No
+O1513,C362,Female,West,23,Headphones,Electronics,$680.05,1,$680.05,$18.08,Delivered,9/22/2024,No
+O1514,C873,Female,West,43,Desk,Home,$12.29,3,$36.87,$76.41,In Transit,2/8/2025,No
+O1515,C882,Female,East,40,Magazine,Books,$835.80,1,$835.80,$16.21,Delivered,10/15/2024,No
+O1516,C305,Female,North,61,Textbook,Books,$15.61,4,$62.44,$79.20,Delivered,8/3/2024,No
+O1517,C259,Female,West,36,Jacket,Clothing,$661.96,3,"$1,985.88",$89.60,Returned,7/10/2024,Yes
+O1518,C433,Female,West,28,Lamp,Home,$703.03,3,"$2,109.09",$17.97,Delivered,9/1/2024,No
+O1519,C827,Male,North,39,Non-fiction,Books,$492.75,2,$985.50,$35.23,Delivered,5/22/2025,No
+O1520,C267,Male,South,21,Phone,Electronics,$690.53,3,"$2,071.59",$15.94,Delivered,4/24/2025,No
+O1521,C436,Female,South,22,Textbook,Books,$355.33,3,"$1,065.99",$66.89,Delivered,2/6/2025,No
+O1522,C854,Female,North,52,Chair,Home,$581.27,4,"$2,325.08",$16.51,Delivered,5/2/2025,No
+O1523,C735,Female,North,53,Tablet,Electronics,$955.56,3,"$2,866.68",$88.20,Returned,7/30/2024,Yes
+O1524,C762,Female,South,59,Sofa,Home,$684.93,1,$684.93,$55.06,In Transit,5/13/2025,No
+O1525,C567,Male,West,42,T-Shirt,Clothing,$796.57,4,"$3,186.28",$53.04,Delivered,1/7/2025,No
+O1526,C213,Male,West,40,Sofa,Home,$153.74,2,$307.48,$46.26,Delivered,8/2/2024,No
+O1527,C212,Male,West,19,Desk,Home,$302.34,4,"$1,209.36",$87.71,Delivered,11/2/2024,No
+O1528,C821,Female,North,43,Magazine,Books,$407.29,3,"$1,221.87",$93.63,Delivered,4/21/2025,No
+O1529,C502,Female,West,54,Sneakers,Clothing,$411.05,3,"$1,233.15",$11.98,In Transit,5/11/2025,No
+O1530,C448,Male,South,38,Laptop,Electronics,$587.42,3,"$1,762.26",$30.34,Delivered,7/28/2024,No
+O1531,C334,Male,North,21,Phone,Electronics,$644.07,1,$644.07,$13.03,Delivered,1/6/2025,No
+O1532,C792,Female,West,46,Jeans,Clothing,$222.48,3,$667.44,$68.30,Delivered,12/4/2024,No
+O1533,C152,Male,West,56,Laptop,Electronics,$131.69,1,$131.69,$74.78,Delivered,5/17/2025,No
+O1534,C837,Male,North,26,Jacket,Clothing,$868.26,2,"$1,736.52",$62.73,Returned,9/16/2024,Yes
+O1535,C537,Male,South,24,Non-fiction,Books,$628.54,4,"$2,514.16",$67.34,Delivered,1/27/2025,No
+O1536,C628,Female,East,58,Textbook,Books,$531.02,2,"$1,062.04",$74.26,Delivered,2/25/2025,No
+O1537,C207,Male,North,33,Sofa,Home,$824.31,4,"$3,297.24",$36.10,Delivered,8/26/2024,No
+O1538,C436,Male,South,31,Laptop,Electronics,$567.66,4,"$2,270.64",$22.86,Returned,1/29/2025,Yes
+O1539,C644,Female,East,47,Textbook,Books,$777.59,2,"$1,555.18",$46.13,In Transit,9/27/2024,No
+O1540,C735,Female,South,57,Tablet,Electronics,$167.04,2,$334.08,$22.04,Delivered,5/1/2025,No
+O1541,C113,Female,East,57,Headphones,Electronics,$633.26,3,"$1,899.78",$34.44,Delivered,12/15/2024,No
+O1542,C849,Female,South,65,Sneakers,Clothing,$408.42,1,$408.42,$10.01,Delivered,4/24/2025,No
+O1543,C736,Male,North,28,Desk,Home,$516.02,2,"$1,032.04",$74.35,Delivered,11/5/2024,No
+O1544,C886,Male,West,35,Tablet,Electronics,$597.55,1,$597.55,$15.64,Delivered,1/16/2025,No
+O1545,C696,Male,East,35,Jacket,Clothing,$840.95,1,$840.95,$40.63,Delivered,10/24/2024,No
+O1546,C434,Female,North,55,Jacket,Clothing,$941.04,4,"$3,764.16",$38.46,Delivered,9/14/2024,No
+O1547,C319,Male,West,55,Jacket,Clothing,$110.87,1,$110.87,$21.69,Delivered,10/11/2024,No
+O1548,C184,Female,South,32,T-Shirt,Clothing,$569.33,2,"$1,138.66",$38.20,Delivered,6/21/2025,No
+O1549,C472,Female,North,22,Sofa,Home,$791.04,3,"$2,373.12",$94.87,Delivered,3/13/2025,No
+O1550,C508,Male,West,58,Phone,Electronics,$428.16,2,$856.32,$43.96,Delivered,3/15/2025,No
+O1551,C150,Female,West,43,Tablet,Electronics,$964.44,1,$964.44,$20.44,Returned,8/21/2024,Yes
+O1552,C792,Male,East,20,Lamp,Home,$51.87,1,$51.87,$44.89,Delivered,4/12/2025,No
+O1553,C829,Male,North,43,Textbook,Books,$636.38,4,"$2,545.52",$70.83,Delivered,7/28/2024,No
+O1554,C663,Female,East,44,Jeans,Clothing,$147.72,1,$147.72,$74.17,In Transit,4/30/2025,No
+O1555,C322,Male,South,20,T-Shirt,Clothing,$669.72,1,$669.72,$35.06,In Transit,8/21/2024,No
+O1556,C583,Female,South,54,Lamp,Home,$138.30,4,$553.20,$73.23,In Transit,7/11/2024,No
+O1557,C723,Male,South,58,Chair,Home,$305.07,1,$305.07,$52.79,Delivered,6/27/2024,No
+O1558,C266,Female,North,30,Fiction,Books,$638.00,1,$638.00,$14.34,Returned,4/28/2025,Yes
+O1559,C150,Male,West,31,Headphones,Electronics,$366.45,4,"$1,465.80",$44.66,Delivered,11/20/2024,No
+O1560,C724,Female,North,60,Chair,Home,$867.16,3,"$2,601.48",$51.19,Delivered,6/2/2025,No
+O1561,C919,Male,West,27,Laptop,Electronics,$216.79,2,$433.58,$79.37,Delivered,10/14/2024,No
+O1562,C483,Male,East,48,Headphones,Electronics,$12.85,3,$38.55,$79.08,Delivered,2/9/2025,No
+O1563,C628,Male,West,46,Desk,Home,$422.34,1,$422.34,$47.42,In Transit,5/17/2025,No
+O1564,C263,Female,West,38,Sneakers,Clothing,$722.46,1,$722.46,$69.16,Returned,2/8/2025,Yes
+O1565,C798,Male,East,64,Textbook,Books,$477.56,4,"$1,910.24",$68.29,Delivered,5/28/2025,No
+O1566,C193,Male,West,31,Headphones,Electronics,$798.28,3,"$2,394.84",$64.70,In Transit,1/14/2025,No
+O1567,C302,Male,North,59,Phone,Electronics,$302.35,4,"$1,209.40",$93.77,Delivered,10/8/2024,No
+O1568,C532,Female,West,35,Jeans,Clothing,$134.47,3,$403.41,$38.41,Delivered,1/18/2025,No
+O1569,C298,Female,West,40,Phone,Electronics,$648.38,1,$648.38,$71.40,Delivered,9/1/2024,No
+O1570,C434,Female,West,20,Laptop,Electronics,$473.47,1,$473.47,$90.12,Delivered,3/26/2025,No
+O1571,C909,Female,East,54,Headphones,Electronics,$294.54,3,$883.62,$70.02,Delivered,6/16/2025,No
+O1572,C235,Female,South,56,Headphones,Electronics,$825.08,2,"$1,650.16",$56.43,Delivered,7/15/2024,No
+O1573,C974,Male,West,29,Tablet,Electronics,$274.92,1,$274.92,$71.92,Delivered,1/20/2025,No
+O1574,C871,Male,West,22,Laptop,Electronics,$249.47,2,$498.94,$40.36,Delivered,8/19/2024,No
+O1575,C174,Female,North,26,Headphones,Electronics,$29.13,4,$116.52,$95.40,In Transit,5/31/2025,No
+O1576,C606,Male,West,25,T-Shirt,Clothing,$41.11,3,$123.33,$46.39,Returned,9/21/2024,Yes
+O1577,C493,Female,West,32,Sneakers,Clothing,$535.63,2,"$1,071.26",$34.00,Returned,2/5/2025,Yes
+O1578,C946,Female,West,60,T-Shirt,Clothing,$727.61,1,$727.61,$96.71,Delivered,5/26/2025,No
+O1579,C528,Female,South,32,Magazine,Books,$523.84,2,"$1,047.68",$78.61,Delivered,11/28/2024,No
+O1580,C487,Male,South,63,Textbook,Books,$460.37,4,"$1,841.48",$79.56,Returned,3/12/2025,Yes
+O1581,C799,Female,West,28,Desk,Home,$526.08,2,"$1,052.16",$87.14,Delivered,8/8/2024,No
+O1582,C943,Male,East,32,Laptop,Electronics,$579.60,2,"$1,159.20",$79.31,Delivered,8/11/2024,No
+O1583,C227,Female,East,62,Tablet,Electronics,$809.08,2,"$1,618.16",$26.36,Delivered,2/1/2025,No
+O1584,C554,Female,South,61,Jacket,Clothing,$441.15,4,"$1,764.60",$36.40,In Transit,9/20/2024,No
+O1585,C100,Female,South,18,Headphones,Electronics,$775.41,2,"$1,550.82",$30.09,Returned,2/1/2025,Yes
+O1586,C266,Male,South,25,Chair,Home,$645.44,4,"$2,581.76",$10.12,Delivered,5/28/2025,No
+O1587,C849,Female,North,51,Sofa,Home,$306.80,4,"$1,227.20",$59.35,Delivered,11/6/2024,No
+O1588,C695,Female,North,56,Fiction,Books,$880.46,3,"$2,641.38",$12.12,Delivered,8/31/2024,No
+O1589,C469,Female,West,48,Laptop,Electronics,$899.57,1,$899.57,$64.55,Delivered,10/28/2024,No
+O1590,C363,Female,South,18,Headphones,Electronics,$298.23,1,$298.23,$45.82,Delivered,12/12/2024,No
+O1591,C595,Female,North,32,Laptop,Electronics,$309.89,3,$929.67,$73.91,Delivered,3/11/2025,No
+O1592,C954,Female,East,55,Textbook,Books,$938.00,2,"$1,876.00",$53.57,Delivered,1/7/2025,No
+O1593,C252,Female,North,37,Jeans,Clothing,$749.97,3,"$2,249.91",$70.45,In Transit,10/16/2024,No
+O1594,C592,Female,South,19,Fiction,Books,$586.39,4,"$2,345.56",$94.85,In Transit,2/24/2025,No
+O1595,C573,Female,East,48,Non-fiction,Books,$787.34,4,"$3,149.36",$68.59,Delivered,5/9/2025,No
+O1596,C491,Female,North,29,Headphones,Electronics,$648.15,4,"$2,592.60",$16.80,In Transit,11/18/2024,No
+O1597,C205,Female,South,47,Jacket,Clothing,$372.02,3,"$1,116.06",$75.31,Delivered,3/29/2025,No
+O1598,C261,Female,West,63,Sofa,Home,$623.54,1,$623.54,$66.02,Delivered,9/5/2024,No
+O1599,C604,Male,South,45,Sofa,Home,$783.51,1,$783.51,$34.86,Delivered,5/30/2025,No
+O1600,C261,Male,South,20,Headphones,Electronics,$981.84,4,"$3,927.36",$67.24,In Transit,3/16/2025,No
+O1601,C369,Female,East,25,Fiction,Books,$394.28,4,"$1,577.12",$67.85,In Transit,5/19/2025,No
+O1602,C736,Female,South,60,T-Shirt,Clothing,$811.76,3,"$2,435.28",$92.57,Delivered,9/17/2024,No
+O1603,C973,Female,North,26,Non-fiction,Books,$297.60,4,"$1,190.40",$58.49,In Transit,10/13/2024,No
+O1604,C588,Male,East,56,Fiction,Books,$70.02,2,$140.04,$15.60,In Transit,3/3/2025,No
+O1605,C508,Male,South,56,Tablet,Electronics,$155.83,1,$155.83,$54.76,Delivered,6/8/2025,No
+O1606,C550,Male,South,51,Sofa,Home,$237.95,4,$951.80,$22.08,Delivered,12/28/2024,No
+O1607,C591,Male,East,37,T-Shirt,Clothing,$958.35,3,"$2,875.05",$78.50,Delivered,1/17/2025,No
+O1608,C777,Female,East,47,Sofa,Home,$360.73,2,$721.46,$71.17,In Transit,6/7/2025,No
+O1609,C813,Male,West,62,T-Shirt,Clothing,$85.48,2,$170.96,$93.58,Delivered,9/4/2024,No
+O1610,C684,Male,South,20,Headphones,Electronics,$763.25,2,"$1,526.50",$59.19,Delivered,1/11/2025,No
+O1611,C367,Female,South,24,Magazine,Books,$438.49,2,$876.98,$60.48,In Transit,4/29/2025,No
+O1612,C522,Female,West,50,Non-fiction,Books,$865.32,4,"$3,461.28",$28.83,Delivered,12/2/2024,No
+O1613,C900,Male,East,56,Lamp,Home,$59.48,1,$59.48,$22.33,Delivered,5/1/2025,No
+O1614,C392,Male,West,64,Fiction,Books,$995.03,2,"$1,990.06",$86.84,In Transit,2/22/2025,No
+O1615,C700,Male,South,26,Laptop,Electronics,$249.56,2,$499.12,$19.80,Returned,7/23/2024,Yes
+O1616,C233,Female,East,59,Headphones,Electronics,$640.17,4,"$2,560.68",$99.53,In Transit,9/21/2024,No
+O1617,C117,Male,South,59,Jeans,Clothing,$714.61,2,"$1,429.22",$57.03,Delivered,9/14/2024,No
+O1618,C444,Female,South,50,Textbook,Books,$226.93,1,$226.93,$49.33,Returned,9/15/2024,Yes
+O1619,C729,Female,South,49,Chair,Home,$597.63,3,"$1,792.89",$29.26,Delivered,2/13/2025,No
+O1620,C546,Male,East,23,Headphones,Electronics,$22.90,2,$45.80,$27.11,Delivered,8/11/2024,No
+O1621,C179,Female,South,62,Jacket,Clothing,$794.67,3,"$2,384.01",$41.95,Delivered,5/14/2025,No
+O1622,C356,Male,North,37,Laptop,Electronics,$701.33,3,"$2,103.99",$56.93,Delivered,4/22/2025,No
+O1623,C786,Male,South,28,Non-fiction,Books,$977.53,3,"$2,932.59",$45.35,Delivered,12/8/2024,No
+O1624,C417,Male,South,20,Sofa,Home,$855.68,2,"$1,711.36",$74.65,Delivered,1/16/2025,No
+O1625,C714,Female,North,31,Sneakers,Clothing,$254.87,1,$254.87,$51.24,Delivered,11/10/2024,No
+O1626,C513,Male,East,50,Jacket,Clothing,$783.54,4,"$3,134.16",$60.86,Delivered,1/31/2025,No
+O1627,C942,Female,North,28,Fiction,Books,$773.91,2,"$1,547.82",$64.28,Delivered,7/14/2024,No
+O1628,C215,Male,West,31,Sofa,Home,$837.05,4,"$3,348.20",$42.13,Delivered,10/5/2024,No
+O1629,C553,Male,South,41,Laptop,Electronics,$926.93,2,"$1,853.86",$82.43,Delivered,6/28/2024,No
+O1630,C425,Male,East,45,Chair,Home,$55.60,2,$111.20,$38.95,Delivered,9/11/2024,No
+O1631,C435,Male,West,57,Lamp,Home,$849.56,4,"$3,398.24",$82.74,In Transit,3/26/2025,No
+O1632,C129,Female,East,61,Magazine,Books,$261.28,3,$783.84,$12.63,In Transit,4/20/2025,No
+O1633,C471,Female,West,55,Desk,Home,$486.08,1,$486.08,$10.04,Delivered,3/1/2025,No
+O1634,C958,Female,West,40,Textbook,Books,$902.37,2,"$1,804.74",$45.81,Delivered,6/16/2025,No
+O1635,C911,Female,North,21,Jeans,Clothing,$920.34,3,"$2,761.02",$54.52,Delivered,11/9/2024,No
+O1636,C217,Female,West,27,Jacket,Clothing,$517.59,3,"$1,552.77",$43.46,Delivered,5/20/2025,No
+O1637,C779,Female,East,47,Fiction,Books,$398.53,1,$398.53,$12.94,Delivered,8/5/2024,No
+O1638,C384,Male,West,40,Non-fiction,Books,$67.13,3,$201.39,$61.94,Delivered,9/19/2024,No
+O1639,C885,Female,West,27,Desk,Home,$363.55,2,$727.10,$99.32,Delivered,1/8/2025,No
+O1640,C868,Male,East,48,Phone,Electronics,$392.46,1,$392.46,$42.27,Delivered,9/21/2024,No
+O1641,C438,Male,North,56,Chair,Home,$660.06,2,"$1,320.12",$91.20,Returned,9/4/2024,Yes
+O1642,C407,Male,South,31,T-Shirt,Clothing,$878.58,4,"$3,514.32",$19.16,In Transit,8/13/2024,No
+O1643,C675,Female,North,54,Non-fiction,Books,$510.90,3,"$1,532.70",$77.66,In Transit,9/15/2024,No
+O1644,C820,Female,North,34,T-Shirt,Clothing,$236.41,1,$236.41,$25.77,Returned,8/24/2024,Yes
+O1645,C933,Male,South,52,Jeans,Clothing,$868.10,1,$868.10,$30.24,Delivered,9/29/2024,No
+O1646,C298,Male,East,41,Sofa,Home,$437.07,4,"$1,748.28",$49.30,Delivered,10/11/2024,No
+O1647,C565,Female,East,21,Chair,Home,$584.29,3,"$1,752.87",$39.37,Delivered,5/17/2025,No
+O1648,C505,Male,North,49,Non-fiction,Books,$841.26,1,$841.26,$41.77,Returned,6/3/2025,Yes
+O1649,C399,Female,North,37,Fiction,Books,$895.15,3,"$2,685.45",$86.13,In Transit,1/31/2025,No
+O1650,C494,Female,East,64,T-Shirt,Clothing,$406.93,2,$813.86,$80.23,Delivered,4/1/2025,No
+O1651,C876,Female,North,19,Sneakers,Clothing,$481.57,3,"$1,444.71",$59.01,Delivered,2/5/2025,No
+O1652,C753,Male,West,42,Non-fiction,Books,$212.42,4,$849.68,$26.75,In Transit,11/5/2024,No
+O1653,C704,Female,West,25,Chair,Home,$338.25,3,"$1,014.75",$12.95,Delivered,6/14/2025,No
+O1654,C617,Female,East,22,Magazine,Books,$639.68,3,"$1,919.04",$16.21,Returned,12/31/2024,Yes
+O1655,C600,Female,West,27,Lamp,Home,$941.38,1,$941.38,$51.40,In Transit,7/10/2024,No
+O1656,C384,Male,South,21,Tablet,Electronics,$104.10,3,$312.30,$85.22,Delivered,11/9/2024,No
+O1657,C743,Male,West,39,Chair,Home,$338.87,2,$677.74,$79.65,Returned,11/25/2024,Yes
+O1658,C319,Female,West,19,Textbook,Books,$359.08,4,"$1,436.32",$23.64,Delivered,4/11/2025,No
+O1659,C943,Female,North,46,Fiction,Books,$877.12,3,"$2,631.36",$14.09,Delivered,1/14/2025,No
+O1660,C491,Male,North,23,Textbook,Books,$297.13,1,$297.13,$13.38,Delivered,4/26/2025,No
+O1661,C706,Male,West,36,Laptop,Electronics,$136.59,2,$273.18,$57.88,Delivered,3/8/2025,No
+O1662,C838,Female,South,60,Lamp,Home,$594.53,4,"$2,378.12",$57.03,Delivered,4/8/2025,No
+O1663,C576,Male,South,50,Headphones,Electronics,$64.09,2,$128.18,$28.05,Delivered,7/5/2024,No
+O1664,C190,Male,East,30,Lamp,Home,$211.54,1,$211.54,$37.35,Delivered,6/15/2025,No
+O1665,C312,Female,North,38,Jacket,Clothing,$238.11,3,$714.33,$14.67,Delivered,7/1/2024,No
+O1666,C436,Male,West,61,Phone,Electronics,$199.21,4,$796.84,$30.19,Delivered,9/18/2024,No
+O1667,C804,Female,North,39,Textbook,Books,$666.42,3,"$1,999.26",$47.43,In Transit,9/21/2024,No
+O1668,C864,Female,South,54,Lamp,Home,$761.48,2,"$1,522.96",$37.26,In Transit,2/15/2025,No
+O1669,C314,Male,South,55,Sneakers,Clothing,$332.04,1,$332.04,$32.75,In Transit,12/27/2024,No
+O1670,C643,Female,South,36,Tablet,Electronics,$278.72,1,$278.72,$43.38,Delivered,12/19/2024,No
+O1671,C883,Male,West,20,Magazine,Books,$902.92,2,"$1,805.84",$46.52,Delivered,9/25/2024,No
+O1672,C856,Male,East,60,Sofa,Home,$228.28,2,$456.56,$45.39,Delivered,4/5/2025,No
+O1673,C520,Female,West,43,Jacket,Clothing,$594.73,1,$594.73,$44.26,Delivered,3/5/2025,No
+O1674,C837,Male,South,63,Sofa,Home,$420.33,2,$840.66,$73.84,Delivered,5/22/2025,No
+O1675,C258,Male,West,40,Jacket,Clothing,$175.65,3,$526.95,$56.58,Delivered,3/5/2025,No
+O1676,C499,Female,North,37,Laptop,Electronics,$276.16,4,"$1,104.64",$13.82,Delivered,11/6/2024,No
+O1677,C953,Male,North,18,Phone,Electronics,$272.67,4,"$1,090.68",$95.43,Delivered,7/13/2024,No
+O1678,C990,Male,East,64,Jeans,Clothing,$635.84,3,"$1,907.52",$78.31,Delivered,11/3/2024,No
+O1679,C410,Female,East,33,Jacket,Clothing,$111.49,1,$111.49,$73.76,Returned,9/29/2024,Yes
+O1680,C623,Female,South,59,Lamp,Home,$180.37,1,$180.37,$93.96,Delivered,2/19/2025,No
+O1681,C553,Male,South,64,Desk,Home,$829.23,4,"$3,316.92",$26.22,Delivered,8/29/2024,No
+O1682,C195,Female,West,26,Headphones,Electronics,$107.25,2,$214.50,$92.89,Delivered,3/21/2025,No
+O1683,C944,Male,West,29,Phone,Electronics,$697.65,3,"$2,092.95",$86.54,Delivered,10/6/2024,No
+O1684,C661,Female,South,49,Laptop,Electronics,$351.16,2,$702.32,$82.64,Delivered,8/17/2024,No
+O1685,C628,Male,North,43,Headphones,Electronics,$203.29,1,$203.29,$29.21,Delivered,2/5/2025,No
+O1686,C842,Male,South,53,Tablet,Electronics,$668.49,1,$668.49,$87.09,Delivered,6/13/2025,No
+O1687,C220,Female,West,62,Sneakers,Clothing,$704.16,4,"$2,816.64",$70.39,Delivered,6/7/2025,No
+O1688,C110,Female,North,27,Magazine,Books,$440.97,4,"$1,763.88",$54.66,In Transit,12/9/2024,No
+O1689,C317,Female,West,33,Lamp,Home,$386.71,3,"$1,160.13",$55.60,Delivered,6/3/2025,No
+O1690,C615,Male,South,23,Jeans,Clothing,$393.36,4,"$1,573.44",$44.59,Delivered,3/28/2025,No
+O1691,C185,Male,East,33,T-Shirt,Clothing,$34.94,4,$139.76,$21.19,Delivered,9/30/2024,No
+O1692,C879,Female,North,23,T-Shirt,Clothing,$799.57,1,$799.57,$97.32,Delivered,5/29/2025,No
+O1693,C154,Male,West,23,Fiction,Books,$443.28,4,"$1,773.12",$60.31,Delivered,2/11/2025,No
+O1694,C524,Male,East,61,Fiction,Books,$506.08,2,"$1,012.16",$59.18,Delivered,1/12/2025,No
+O1695,C413,Female,East,23,Phone,Electronics,$967.36,3,"$2,902.08",$48.66,Delivered,4/15/2025,No
+O1696,C477,Female,East,25,T-Shirt,Clothing,$315.75,4,"$1,263.00",$87.64,Delivered,4/24/2025,No
+O1697,C446,Male,South,52,Desk,Home,$187.46,4,$749.84,$74.30,Delivered,3/1/2025,No
+O1698,C618,Female,South,19,Sneakers,Clothing,$952.94,4,"$3,811.76",$21.85,Delivered,1/9/2025,No
+O1699,C741,Male,South,41,Non-fiction,Books,$866.64,4,"$3,466.56",$70.94,Delivered,3/9/2025,No
+O1700,C121,Female,North,47,Magazine,Books,$628.78,2,"$1,257.56",$88.43,Returned,11/21/2024,Yes
+O1701,C293,Female,East,33,Phone,Electronics,$675.98,1,$675.98,$16.38,Delivered,1/4/2025,No
+O1702,C951,Male,East,45,Laptop,Electronics,$319.73,3,$959.19,$61.46,Delivered,11/10/2024,No
+O1703,C443,Male,East,43,Jeans,Clothing,$834.50,3,"$2,503.50",$66.52,Delivered,4/5/2025,No
+O1704,C341,Male,East,54,Phone,Electronics,$255.03,4,"$1,020.12",$14.67,Delivered,5/4/2025,No
+O1705,C387,Female,West,26,Lamp,Home,$553.37,2,"$1,106.74",$45.16,Delivered,7/23/2024,No
+O1706,C521,Female,South,35,Headphones,Electronics,$199.51,4,$798.04,$65.92,Delivered,1/12/2025,No
+O1707,C389,Female,East,58,T-Shirt,Clothing,$340.71,1,$340.71,$89.02,Delivered,7/6/2024,No
+O1708,C749,Male,North,24,Fiction,Books,$609.45,4,"$2,437.80",$80.54,In Transit,1/28/2025,No
+O1709,C909,Female,West,48,Headphones,Electronics,$292.90,4,"$1,171.60",$40.01,Delivered,2/24/2025,No
+O1710,C885,Male,East,35,Desk,Home,$680.77,3,"$2,042.31",$15.09,In Transit,6/27/2024,No
+O1711,C199,Female,North,38,Sofa,Home,$380.18,4,"$1,520.72",$98.38,Delivered,5/8/2025,No
+O1712,C433,Male,South,41,Sofa,Home,$787.01,3,"$2,361.03",$66.91,Delivered,12/31/2024,No
+O1713,C865,Male,West,34,Phone,Electronics,$207.00,3,$621.00,$80.67,Delivered,12/25/2024,No
+O1714,C389,Female,South,29,Jacket,Clothing,$605.09,4,"$2,420.36",$35.01,Delivered,7/6/2024,No
+O1715,C930,Female,West,46,Sofa,Home,$283.56,2,$567.12,$92.33,Returned,3/28/2025,Yes
+O1716,C594,Male,East,32,Fiction,Books,$21.37,2,$42.74,$56.68,Delivered,3/24/2025,No
+O1717,C208,Male,North,57,Jeans,Clothing,$187.57,2,$375.14,$59.30,Delivered,3/24/2025,No
+O1718,C520,Female,West,37,Sofa,Home,$979.17,1,$979.17,$76.41,Delivered,12/19/2024,No
+O1719,C784,Female,South,18,Non-fiction,Books,$707.51,1,$707.51,$28.40,Delivered,3/22/2025,No
+O1720,C550,Female,North,47,Jacket,Clothing,$524.51,3,"$1,573.53",$33.78,In Transit,7/6/2024,No
+O1721,C484,Female,South,45,Sofa,Home,$213.28,1,$213.28,$76.61,Delivered,10/13/2024,No
+O1722,C734,Female,South,45,Magazine,Books,$634.39,4,"$2,537.56",$69.11,Delivered,7/5/2024,No
+O1723,C695,Female,East,21,Headphones,Electronics,$968.85,3,"$2,906.55",$63.58,Delivered,9/6/2024,No
+O1724,C436,Female,South,39,Lamp,Home,$180.39,3,$541.17,$95.63,Delivered,8/3/2024,No
+O1725,C778,Male,East,58,Fiction,Books,$304.32,2,$608.64,$72.62,In Transit,3/19/2025,No
+O1726,C569,Female,East,34,T-Shirt,Clothing,$463.44,3,"$1,390.32",$68.37,Delivered,6/11/2025,No
+O1727,C802,Female,North,18,Sofa,Home,$274.73,2,$549.46,$73.34,Delivered,12/25/2024,No
+O1728,C691,Male,West,26,Jacket,Clothing,$379.53,3,"$1,138.59",$70.84,Delivered,10/30/2024,No
+O1729,C665,Male,South,31,Lamp,Home,$709.56,4,"$2,838.24",$62.52,Delivered,5/5/2025,No
+O1730,C167,Female,East,44,Jeans,Clothing,$530.50,3,"$1,591.50",$63.79,In Transit,4/8/2025,No
+O1731,C399,Female,North,43,Sofa,Home,$867.43,1,$867.43,$20.54,Returned,3/18/2025,Yes
+O1732,C946,Male,West,18,Sofa,Home,$454.59,1,$454.59,$95.03,Delivered,1/10/2025,No
+O1733,C177,Female,South,57,Tablet,Electronics,$739.17,4,"$2,956.68",$10.60,Delivered,3/3/2025,No
+O1734,C773,Female,West,45,Magazine,Books,$774.58,4,"$3,098.32",$73.10,Delivered,8/31/2024,No
+O1735,C622,Male,North,50,Jacket,Clothing,$683.31,4,"$2,733.24",$66.47,Delivered,5/8/2025,No
+O1736,C346,Male,East,53,Lamp,Home,$391.76,3,"$1,175.28",$32.78,Delivered,4/30/2025,No
+O1737,C203,Female,North,22,Desk,Home,$455.75,1,$455.75,$29.84,Delivered,3/6/2025,No
+O1738,C502,Male,North,36,Jacket,Clothing,$728.47,2,"$1,456.94",$26.97,Delivered,10/16/2024,No
+O1739,C257,Male,North,43,Desk,Home,$675.74,4,"$2,702.96",$69.85,In Transit,5/25/2025,No
+O1740,C879,Male,South,52,Phone,Electronics,$503.06,3,"$1,509.18",$49.02,Delivered,1/24/2025,No
+O1741,C261,Male,North,18,Phone,Electronics,$101.70,3,$305.10,$17.59,Delivered,2/5/2025,No
+O1742,C868,Female,North,54,Phone,Electronics,$809.12,3,"$2,427.36",$33.28,In Transit,8/29/2024,No
+O1743,C908,Male,North,38,Non-fiction,Books,$440.06,1,$440.06,$49.45,Delivered,2/24/2025,No
+O1744,C809,Female,North,43,Laptop,Electronics,$996.30,4,"$3,985.20",$65.20,Delivered,4/2/2025,No
+O1745,C303,Male,South,37,Magazine,Books,$641.31,2,"$1,282.62",$73.08,Delivered,2/4/2025,No
+O1746,C822,Female,West,49,Fiction,Books,$211.98,3,$635.94,$27.93,Delivered,12/31/2024,No
+O1747,C944,Female,West,44,T-Shirt,Clothing,$878.70,4,"$3,514.80",$92.04,Delivered,9/30/2024,No
+O1748,C187,Female,West,57,Textbook,Books,$39.21,1,$39.21,$29.30,In Transit,8/31/2024,No
+O1749,C282,Female,North,27,Lamp,Home,$278.10,4,"$1,112.40",$92.01,Delivered,3/19/2025,No
+O1750,C191,Male,East,38,Textbook,Books,$361.31,2,$722.62,$75.95,In Transit,3/24/2025,No
+O1751,C763,Male,North,57,Textbook,Books,$610.66,3,"$1,831.98",$63.53,Delivered,10/16/2024,No
+O1752,C473,Male,East,55,Textbook,Books,$378.48,3,"$1,135.44",$85.46,Returned,3/1/2025,Yes
+O1753,C509,Male,North,54,Lamp,Home,$807.04,3,"$2,421.12",$54.42,In Transit,6/21/2025,No
+O1754,C674,Male,South,57,Tablet,Electronics,$290.47,4,"$1,161.88",$28.03,In Transit,9/5/2024,No
+O1755,C377,Male,East,57,Headphones,Electronics,$620.62,1,$620.62,$32.80,Delivered,8/1/2024,No
+O1756,C823,Female,South,61,Sofa,Home,$987.78,4,"$3,951.12",$16.16,In Transit,2/18/2025,No
+O1757,C181,Female,East,65,Laptop,Electronics,$377.40,1,$377.40,$28.56,Delivered,1/12/2025,No
+O1758,C532,Male,West,23,Sofa,Home,$801.72,3,"$2,405.16",$34.20,Delivered,7/7/2024,No
+O1759,C231,Male,West,52,Lamp,Home,$374.76,2,$749.52,$87.38,Returned,10/11/2024,Yes
+O1760,C527,Male,East,31,Non-fiction,Books,$44.66,3,$133.98,$50.89,Returned,2/22/2025,Yes
+O1761,C630,Female,South,62,Magazine,Books,$633.94,3,"$1,901.82",$67.42,Delivered,8/15/2024,No
+O1762,C719,Male,West,65,Jacket,Clothing,$835.31,4,"$3,341.24",$49.83,In Transit,9/18/2024,No
+O1763,C177,Female,North,26,Jeans,Clothing,$652.83,1,$652.83,$80.56,In Transit,9/11/2024,No
+O1764,C158,Female,North,33,Sneakers,Clothing,$425.20,3,"$1,275.60",$36.31,Returned,11/27/2024,Yes
+O1765,C926,Male,East,19,Jeans,Clothing,$449.48,1,$449.48,$28.10,Delivered,6/8/2025,No
+O1766,C523,Female,South,54,Headphones,Electronics,$594.33,3,"$1,782.99",$15.06,Delivered,6/20/2025,No
+O1767,C221,Male,South,34,Textbook,Books,$496.18,4,"$1,984.72",$28.90,Returned,11/15/2024,Yes
+O1768,C540,Male,East,47,Jacket,Clothing,$288.23,3,$864.69,$46.87,Delivered,1/28/2025,No
+O1769,C819,Female,North,60,Laptop,Electronics,$658.62,1,$658.62,$93.16,In Transit,12/27/2024,No
+O1770,C544,Male,East,55,Non-fiction,Books,$120.76,1,$120.76,$16.34,Delivered,6/12/2025,No
+O1771,C389,Male,East,38,Sofa,Home,$193.79,1,$193.79,$77.21,Delivered,5/31/2025,No
+O1772,C990,Male,East,21,Textbook,Books,$723.36,3,"$2,170.08",$71.66,Delivered,11/13/2024,No
+O1773,C816,Male,North,56,Headphones,Electronics,$119.33,1,$119.33,$10.72,Delivered,5/27/2025,No
+O1774,C896,Female,East,51,Chair,Home,$925.32,3,"$2,775.96",$56.35,Delivered,7/29/2024,No
+O1775,C689,Male,East,30,Chair,Home,$540.20,1,$540.20,$76.83,In Transit,11/17/2024,No
+O1776,C124,Male,East,59,Textbook,Books,$85.87,4,$343.48,$81.04,Delivered,9/13/2024,No
+O1777,C976,Female,West,44,T-Shirt,Clothing,$314.72,4,"$1,258.88",$82.84,Delivered,9/10/2024,No
+O1778,C266,Female,East,39,T-Shirt,Clothing,$788.49,2,"$1,576.98",$41.90,Delivered,10/3/2024,No
+O1779,C707,Female,North,42,T-Shirt,Clothing,$510.58,3,"$1,531.74",$30.86,Delivered,11/17/2024,No
+O1780,C911,Female,North,50,T-Shirt,Clothing,$325.42,1,$325.42,$45.35,Delivered,9/22/2024,No
+O1781,C807,Female,West,31,Laptop,Electronics,$557.84,3,"$1,673.52",$41.40,In Transit,7/22/2024,No
+O1782,C297,Male,East,18,Tablet,Electronics,$526.38,1,$526.38,$70.92,In Transit,9/28/2024,No
+O1783,C262,Female,East,48,Jeans,Clothing,$839.53,3,"$2,518.59",$51.57,Delivered,5/20/2025,No
+O1784,C224,Male,North,51,Textbook,Books,$420.37,3,"$1,261.11",$64.95,Delivered,10/8/2024,No
+O1785,C769,Male,West,26,Tablet,Electronics,$168.76,1,$168.76,$47.00,Delivered,11/20/2024,No
+O1786,C675,Female,North,31,Fiction,Books,$724.71,4,"$2,898.84",$30.66,Delivered,6/30/2024,No
+O1787,C334,Female,North,18,Chair,Home,$126.38,1,$126.38,$76.66,Returned,11/30/2024,Yes
+O1788,C640,Male,South,49,Chair,Home,$864.34,1,$864.34,$75.92,Delivered,9/12/2024,No
+O1789,C325,Female,East,47,T-Shirt,Clothing,$519.78,2,"$1,039.56",$58.72,Delivered,11/2/2024,No
+O1790,C782,Male,West,56,Headphones,Electronics,$351.78,2,$703.56,$24.92,Delivered,9/13/2024,No
+O1791,C256,Male,East,61,Fiction,Books,$891.95,2,"$1,783.90",$20.93,Delivered,11/10/2024,No
+O1792,C655,Female,South,50,Headphones,Electronics,$638.29,3,"$1,914.87",$30.01,Returned,4/24/2025,Yes
+O1793,C774,Male,South,47,Magazine,Books,$524.03,4,"$2,096.12",$37.99,Delivered,11/6/2024,No
+O1794,C916,Female,West,26,Jeans,Clothing,$175.26,3,$525.78,$45.19,Delivered,7/26/2024,No
+O1795,C687,Female,East,62,Phone,Electronics,$241.86,3,$725.58,$77.45,Returned,8/22/2024,Yes
+O1796,C814,Male,West,32,Jeans,Clothing,$576.19,3,"$1,728.57",$60.12,Delivered,6/20/2025,No
+O1797,C893,Female,East,37,Fiction,Books,$421.62,2,$843.24,$88.43,In Transit,1/27/2025,No
+O1798,C143,Male,South,36,Headphones,Electronics,$682.19,4,"$2,728.76",$73.19,Delivered,10/7/2024,No
+O1799,C793,Female,South,52,Desk,Home,$179.98,2,$359.96,$39.48,Delivered,4/27/2025,No
+O1800,C799,Female,East,60,Non-fiction,Books,$551.22,1,$551.22,$66.83,In Transit,7/9/2024,No
+O1801,C547,Female,West,20,Phone,Electronics,$537.18,1,$537.18,$72.70,In Transit,1/22/2025,No
+O1802,C661,Male,North,57,Phone,Electronics,$500.75,1,$500.75,$40.35,Returned,12/21/2024,Yes
+O1803,C257,Male,East,61,Headphones,Electronics,$151.41,2,$302.82,$56.11,Delivered,7/17/2024,No
+O1804,C557,Male,East,47,Sneakers,Clothing,$123.14,2,$246.28,$90.61,Delivered,12/6/2024,No
+O1805,C687,Male,South,39,Sneakers,Clothing,$212.27,1,$212.27,$95.63,Delivered,6/25/2024,No
+O1806,C887,Male,North,19,Phone,Electronics,$778.72,2,"$1,557.44",$81.35,In Transit,6/4/2025,No
+O1807,C438,Male,East,34,Headphones,Electronics,$78.36,1,$78.36,$46.73,Delivered,4/13/2025,No
+O1808,C158,Female,South,37,Lamp,Home,$886.76,3,"$2,660.28",$71.98,In Transit,12/12/2024,No
+O1809,C397,Male,South,24,Headphones,Electronics,$260.74,1,$260.74,$75.82,In Transit,2/25/2025,No
+O1810,C902,Female,South,54,Sneakers,Clothing,$700.30,4,"$2,801.20",$85.25,Returned,6/27/2024,Yes
+O1811,C165,Male,North,34,Jacket,Clothing,$823.17,4,"$3,292.68",$28.31,Delivered,6/22/2024,No
+O1812,C632,Female,North,63,T-Shirt,Clothing,$136.11,2,$272.22,$81.24,Delivered,6/20/2025,No
+O1813,C659,Male,West,49,Magazine,Books,$456.78,3,"$1,370.34",$83.85,Delivered,4/9/2025,No
+O1814,C521,Female,West,51,Chair,Home,$410.52,3,"$1,231.56",$51.97,Delivered,12/11/2024,No
+O1815,C477,Female,East,46,Non-fiction,Books,$84.94,2,$169.88,$68.30,Delivered,2/3/2025,No
+O1816,C885,Female,North,27,Tablet,Electronics,$25.35,4,$101.40,$28.31,Delivered,8/14/2024,No
+O1817,C390,Female,North,64,Fiction,Books,$76.30,2,$152.60,$53.13,Delivered,5/1/2025,No
+O1818,C487,Female,South,31,Headphones,Electronics,$189.91,4,$759.64,$97.13,Delivered,3/20/2025,No
+O1819,C693,Male,West,34,Chair,Home,$75.90,1,$75.90,$98.35,Delivered,1/13/2025,No
+O1820,C910,Male,South,20,Headphones,Electronics,$455.97,1,$455.97,$82.34,Delivered,1/18/2025,No
+O1821,C265,Female,West,31,Phone,Electronics,$439.14,4,"$1,756.56",$94.83,In Transit,10/15/2024,No
+O1822,C582,Male,South,46,Sofa,Home,$52.41,3,$157.23,$29.81,Delivered,7/31/2024,No
+O1823,C727,Female,South,57,Phone,Electronics,$357.02,4,"$1,428.08",$64.76,Delivered,3/9/2025,No
+O1824,C852,Female,South,21,Headphones,Electronics,$709.57,4,"$2,838.28",$51.78,In Transit,12/31/2024,No
+O1825,C383,Female,West,45,Magazine,Books,$725.51,2,"$1,451.02",$41.50,Delivered,9/24/2024,No
+O1826,C751,Female,East,41,Jeans,Clothing,$930.00,2,"$1,860.00",$29.59,Returned,7/15/2024,Yes
+O1827,C795,Female,South,34,Laptop,Electronics,$665.07,1,$665.07,$43.59,Delivered,1/28/2025,No
+O1828,C909,Female,West,45,Phone,Electronics,$635.67,2,"$1,271.34",$79.55,Delivered,4/7/2025,No
+O1829,C298,Female,South,30,Laptop,Electronics,$552.93,1,$552.93,$62.29,Delivered,7/29/2024,No
+O1830,C573,Male,West,37,Textbook,Books,$431.81,2,$863.62,$80.38,Delivered,11/7/2024,No
+O1831,C559,Male,North,65,Fiction,Books,$754.23,3,"$2,262.69",$70.97,In Transit,2/25/2025,No
+O1832,C532,Male,West,63,Desk,Home,$760.92,3,"$2,282.76",$70.40,Delivered,2/12/2025,No
+O1833,C821,Male,North,40,Tablet,Electronics,$624.27,1,$624.27,$44.80,Delivered,12/14/2024,No
+O1834,C741,Female,North,23,Headphones,Electronics,$665.86,3,"$1,997.58",$90.14,Delivered,3/31/2025,No
+O1835,C575,Female,East,46,Jacket,Clothing,$752.48,1,$752.48,$33.24,Delivered,10/8/2024,No
+O1836,C541,Female,North,18,Jeans,Clothing,$609.36,1,$609.36,$68.87,Delivered,9/23/2024,No
+O1837,C969,Male,West,61,Sofa,Home,$890.24,1,$890.24,$58.75,In Transit,5/26/2025,No
+O1838,C657,Male,East,54,T-Shirt,Clothing,$760.68,4,"$3,042.72",$52.65,In Transit,9/17/2024,No
+O1839,C669,Female,North,23,Jeans,Clothing,$719.23,2,"$1,438.46",$44.76,Delivered,5/13/2025,No
+O1840,C345,Female,East,21,Jacket,Clothing,$592.62,1,$592.62,$31.74,In Transit,10/12/2024,No
+O1841,C876,Female,North,18,Sneakers,Clothing,$222.76,2,$445.52,$88.18,Delivered,12/10/2024,No
+O1842,C495,Male,East,50,Lamp,Home,$727.10,3,"$2,181.30",$26.91,Delivered,8/9/2024,No
+O1843,C479,Female,East,31,Headphones,Electronics,$86.20,2,$172.40,$22.03,Delivered,3/28/2025,No
+O1844,C454,Female,West,47,Lamp,Home,$449.42,3,"$1,348.26",$69.36,In Transit,11/14/2024,No
+O1845,C459,Female,East,53,Fiction,Books,$798.28,4,"$3,193.12",$59.44,Delivered,1/23/2025,No
+O1846,C568,Female,South,18,Lamp,Home,$537.92,3,"$1,613.76",$94.52,Delivered,5/18/2025,No
+O1847,C131,Female,South,30,Desk,Home,$640.01,1,$640.01,$57.59,Delivered,2/21/2025,No
+O1848,C881,Female,West,42,Lamp,Home,$827.66,1,$827.66,$72.52,Delivered,7/26/2024,No
+O1849,C925,Female,North,55,Lamp,Home,$226.53,4,$906.12,$84.14,Delivered,3/21/2025,No
+O1850,C801,Female,South,53,Magazine,Books,$72.51,1,$72.51,$83.34,Delivered,2/27/2025,No
+O1851,C114,Female,North,63,Jeans,Clothing,$780.24,3,"$2,340.72",$98.50,In Transit,11/24/2024,No
+O1852,C987,Male,East,39,Fiction,Books,$788.84,2,"$1,577.68",$72.91,In Transit,11/8/2024,No
+O1853,C693,Male,East,59,Jacket,Clothing,$374.66,4,"$1,498.64",$29.55,In Transit,4/4/2025,No
+O1854,C965,Male,North,44,Lamp,Home,$469.35,2,$938.70,$13.03,Delivered,2/9/2025,No
+O1855,C393,Male,North,50,Phone,Electronics,$880.39,3,"$2,641.17",$84.19,Delivered,7/13/2024,No
+O1856,C138,Female,West,28,Chair,Home,$633.74,2,"$1,267.48",$70.02,Delivered,7/4/2024,No
+O1857,C403,Male,East,19,Phone,Electronics,$329.80,4,"$1,319.20",$28.10,Delivered,6/18/2025,No
+O1858,C545,Female,West,33,Tablet,Electronics,$519.06,3,"$1,557.18",$91.09,In Transit,8/6/2024,No
+O1859,C571,Male,South,57,Fiction,Books,$996.20,2,"$1,992.40",$18.49,Delivered,9/28/2024,No
+O1860,C202,Female,East,28,Lamp,Home,$750.52,1,$750.52,$61.90,Delivered,6/16/2025,No
+O1861,C977,Female,West,56,Tablet,Electronics,$76.58,4,$306.32,$84.40,Delivered,8/2/2024,No
+O1862,C839,Male,South,20,Lamp,Home,$904.06,1,$904.06,$77.34,Delivered,9/4/2024,No
+O1863,C101,Female,East,36,Non-fiction,Books,$808.60,2,"$1,617.20",$10.51,Delivered,3/17/2025,No
+O1864,C622,Female,North,59,Sofa,Home,$471.17,3,"$1,413.51",$13.63,Delivered,2/12/2025,No
+O1865,C213,Female,North,42,Sneakers,Clothing,$417.08,1,$417.08,$96.50,Delivered,4/23/2025,No
+O1866,C923,Male,West,22,Jacket,Clothing,$892.79,1,$892.79,$80.54,In Transit,5/23/2025,No
+O1867,C766,Male,South,36,Jacket,Clothing,$570.52,3,"$1,711.56",$17.22,In Transit,7/22/2024,No
+O1868,C197,Female,West,23,Fiction,Books,$319.07,2,$638.14,$11.29,In Transit,10/9/2024,No
+O1869,C557,Female,South,63,Headphones,Electronics,$766.71,2,"$1,533.42",$73.55,Delivered,5/18/2025,No
+O1870,C556,Male,West,56,Jeans,Clothing,$315.87,3,$947.61,$85.34,In Transit,7/27/2024,No
+O1871,C256,Male,North,22,Jeans,Clothing,$623.33,3,"$1,869.99",$94.46,Delivered,6/12/2025,No
+O1872,C614,Female,West,46,Textbook,Books,$420.67,1,$420.67,$62.82,Delivered,11/4/2024,No
+O1873,C316,Male,South,55,Sneakers,Clothing,$585.14,1,$585.14,$67.45,Delivered,12/17/2024,No
+O1874,C948,Female,East,33,T-Shirt,Clothing,$735.67,2,"$1,471.34",$73.67,Delivered,9/22/2024,No
+O1875,C291,Female,North,35,Laptop,Electronics,$395.34,4,"$1,581.36",$61.25,Delivered,12/24/2024,No
+O1876,C609,Female,West,40,Jeans,Clothing,$869.73,3,"$2,609.19",$93.62,In Transit,12/15/2024,No
+O1877,C916,Male,West,46,Jeans,Clothing,$348.49,1,$348.49,$66.98,In Transit,12/22/2024,No
+O1878,C568,Male,West,34,Sofa,Home,$474.59,1,$474.59,$98.30,Delivered,7/6/2024,No
+O1879,C164,Female,West,22,Laptop,Electronics,$653.01,1,$653.01,$51.51,Delivered,4/19/2025,No
+O1880,C760,Female,East,24,Magazine,Books,$940.53,2,"$1,881.06",$14.80,Delivered,2/25/2025,No
+O1881,C943,Male,North,48,Laptop,Electronics,$460.22,2,$920.44,$42.62,Delivered,12/9/2024,No
+O1882,C810,Female,North,25,Headphones,Electronics,$865.01,4,"$3,460.04",$94.75,Delivered,1/10/2025,No
+O1883,C611,Female,West,30,Non-fiction,Books,$175.68,1,$175.68,$14.90,Delivered,8/1/2024,No
+O1884,C736,Male,South,62,T-Shirt,Clothing,$647.81,1,$647.81,$68.38,Delivered,10/10/2024,No
+O1885,C835,Female,West,65,Textbook,Books,$282.54,3,$847.62,$77.30,Delivered,7/19/2024,No
+O1886,C331,Male,North,48,Sneakers,Clothing,$812.16,1,$812.16,$26.14,Delivered,7/4/2024,No
+O1887,C435,Male,East,52,Headphones,Electronics,$708.09,2,"$1,416.18",$62.18,In Transit,4/20/2025,No
+O1888,C969,Male,West,27,Desk,Home,$458.38,2,$916.76,$25.28,Delivered,7/28/2024,No
+O1889,C843,Male,South,33,Lamp,Home,$28.95,4,$115.80,$12.25,Delivered,8/27/2024,No
+O1890,C998,Female,South,47,Laptop,Electronics,$179.72,3,$539.16,$85.43,Delivered,4/2/2025,No
+O1891,C451,Male,South,30,Tablet,Electronics,$804.78,2,"$1,609.56",$91.92,Delivered,11/4/2024,No
+O1892,C159,Male,West,33,Fiction,Books,$642.64,2,"$1,285.28",$46.17,Delivered,4/4/2025,No
+O1893,C355,Male,North,33,Tablet,Electronics,$162.15,1,$162.15,$85.04,In Transit,12/16/2024,No
+O1894,C363,Female,North,63,Chair,Home,$646.15,2,"$1,292.30",$62.49,Returned,2/5/2025,Yes
+O1895,C682,Female,West,42,Headphones,Electronics,$596.91,4,"$2,387.64",$63.47,Delivered,6/14/2025,No
+O1896,C522,Male,East,47,Jeans,Clothing,$705.61,1,$705.61,$48.10,Returned,11/9/2024,Yes
+O1897,C566,Female,West,55,Phone,Electronics,$93.72,4,$374.88,$65.47,Delivered,11/18/2024,No
+O1898,C303,Male,East,25,Jacket,Clothing,$253.82,2,$507.64,$69.31,Delivered,9/5/2024,No
+O1899,C121,Male,North,37,Laptop,Electronics,$219.12,1,$219.12,$97.86,Delivered,9/1/2024,No
+O1900,C314,Female,North,60,Jeans,Clothing,$686.62,3,"$2,059.86",$76.37,Returned,5/7/2025,Yes
+O1901,C717,Male,North,59,Sofa,Home,$293.65,3,$880.95,$21.27,Delivered,6/27/2024,No
+O1902,C233,Female,West,22,Sofa,Home,$208.55,1,$208.55,$90.76,Delivered,10/6/2024,No
+O1903,C399,Female,West,18,Desk,Home,$626.40,3,"$1,879.20",$65.71,Returned,12/3/2024,Yes
+O1904,C534,Female,East,65,Laptop,Electronics,$941.37,1,$941.37,$15.62,Delivered,9/23/2024,No
+O1905,C845,Male,East,52,Fiction,Books,$341.93,3,"$1,025.79",$49.19,In Transit,6/28/2024,No
+O1906,C213,Male,North,54,Jeans,Clothing,$402.00,1,$402.00,$86.73,Delivered,1/16/2025,No
+O1907,C652,Male,North,25,Phone,Electronics,$938.59,3,"$2,815.77",$59.67,In Transit,6/26/2024,No
+O1908,C103,Male,West,29,T-Shirt,Clothing,$791.52,3,"$2,374.56",$28.97,Delivered,7/16/2024,No
+O1909,C636,Female,North,18,Textbook,Books,$237.07,4,$948.28,$14.97,Delivered,9/14/2024,No
+O1910,C411,Female,South,37,Textbook,Books,$942.96,4,"$3,771.84",$25.07,In Transit,1/18/2025,No
+O1911,C359,Female,South,22,Jacket,Clothing,$155.80,3,$467.40,$98.68,Delivered,12/12/2024,No
+O1912,C965,Male,East,37,Sofa,Home,$174.36,4,$697.44,$49.58,Delivered,3/6/2025,No
+O1913,C418,Female,East,63,Tablet,Electronics,$285.58,4,"$1,142.32",$28.65,Delivered,12/26/2024,No
+O1914,C473,Female,North,37,Jacket,Clothing,$634.28,1,$634.28,$30.93,Delivered,10/22/2024,No
+O1915,C300,Female,South,18,Laptop,Electronics,$138.38,3,$415.14,$42.90,Returned,10/13/2024,Yes
+O1916,C533,Female,West,56,Headphones,Electronics,$360.16,1,$360.16,$15.63,In Transit,3/14/2025,No
+O1917,C105,Male,East,46,Laptop,Electronics,$218.40,2,$436.80,$90.84,Returned,6/21/2024,Yes
+O1918,C596,Female,South,28,T-Shirt,Clothing,$779.04,2,"$1,558.08",$87.82,Delivered,7/29/2024,No
+O1919,C476,Male,North,45,Lamp,Home,$163.38,3,$490.14,$18.87,Delivered,2/6/2025,No
+O1920,C760,Male,North,19,Textbook,Books,$831.02,3,"$2,493.06",$60.71,Delivered,12/19/2024,No
+O1921,C970,Female,East,18,Lamp,Home,$805.77,1,$805.77,$53.06,Delivered,6/10/2025,No
+O1922,C757,Male,North,59,Laptop,Electronics,$782.75,4,"$3,131.00",$22.97,Returned,7/6/2024,Yes
+O1923,C169,Male,East,26,Laptop,Electronics,$627.76,4,"$2,511.04",$25.68,Delivered,7/4/2024,No
+O1924,C780,Female,East,36,Fiction,Books,$876.65,1,$876.65,$51.36,Delivered,8/23/2024,No
+O1925,C419,Female,North,27,Chair,Home,$313.40,1,$313.40,$74.37,In Transit,10/22/2024,No
+O1926,C285,Female,North,20,Chair,Home,$289.10,2,$578.20,$51.26,Returned,7/5/2024,Yes
+O1927,C601,Male,North,32,Jacket,Clothing,$727.76,4,"$2,911.04",$59.25,Delivered,12/26/2024,No
+O1928,C919,Female,West,28,T-Shirt,Clothing,$991.86,1,$991.86,$87.60,Delivered,10/6/2024,No
+O1929,C293,Male,West,49,Textbook,Books,$320.74,3,$962.22,$21.37,Delivered,11/15/2024,No
+O1930,C382,Female,East,44,Non-fiction,Books,$566.93,4,"$2,267.72",$90.06,Returned,6/30/2024,Yes
+O1931,C837,Female,North,25,T-Shirt,Clothing,$377.75,3,"$1,133.25",$57.05,Returned,7/23/2024,Yes
+O1932,C803,Female,East,58,Sofa,Home,$476.16,1,$476.16,$54.33,Delivered,4/1/2025,No
+O1933,C207,Female,North,29,Non-fiction,Books,$488.35,3,"$1,465.05",$69.23,Delivered,1/3/2025,No
+O1934,C525,Male,East,19,Chair,Home,$125.84,4,$503.36,$46.61,Delivered,7/28/2024,No
+O1935,C636,Female,West,52,Laptop,Electronics,$334.95,4,"$1,339.80",$47.45,Returned,2/5/2025,Yes
+O1936,C217,Female,North,35,Fiction,Books,$518.71,4,"$2,074.84",$27.68,Delivered,5/21/2025,No
+O1937,C397,Male,North,20,Sneakers,Clothing,$951.93,1,$951.93,$55.91,Delivered,5/7/2025,No
+O1938,C538,Male,North,45,Laptop,Electronics,$738.88,4,"$2,955.52",$54.07,In Transit,6/27/2024,No
+O1939,C158,Female,East,20,Jacket,Clothing,$648.30,4,"$2,593.20",$97.32,In Transit,7/22/2024,No
+O1940,C630,Female,South,42,Sofa,Home,$933.00,1,$933.00,$69.55,Delivered,7/25/2024,No
+O1941,C369,Female,South,37,Chair,Home,$149.81,2,$299.62,$86.92,In Transit,10/2/2024,No
+O1942,C292,Female,South,63,Chair,Home,$173.65,3,$520.95,$29.68,Delivered,1/3/2025,No
+O1943,C848,Male,North,63,Headphones,Electronics,$191.01,2,$382.02,$91.29,Delivered,5/21/2025,No
+O1944,C929,Female,East,27,Tablet,Electronics,$607.81,2,"$1,215.62",$97.29,Delivered,3/5/2025,No
+O1945,C500,Female,East,54,Lamp,Home,$575.55,1,$575.55,$80.71,In Transit,8/3/2024,No
+O1946,C129,Male,North,62,Textbook,Books,$260.27,2,$520.54,$43.07,Returned,11/13/2024,Yes
+O1947,C185,Female,West,63,Laptop,Electronics,$96.15,1,$96.15,$75.65,Delivered,10/19/2024,No
+O1948,C514,Male,North,18,Lamp,Home,$577.49,1,$577.49,$25.76,In Transit,1/29/2025,No
+O1949,C208,Male,North,34,Textbook,Books,$676.04,1,$676.04,$32.74,Delivered,9/9/2024,No
+O1950,C143,Female,North,65,Tablet,Electronics,$524.87,4,"$2,099.48",$32.47,Delivered,3/23/2025,No
+O1951,C199,Male,West,64,Sofa,Home,$270.61,1,$270.61,$66.11,Delivered,4/19/2025,No
+O1952,C464,Female,East,54,Sofa,Home,$604.28,1,$604.28,$66.46,In Transit,10/12/2024,No
+O1953,C768,Male,East,60,Chair,Home,$752.76,2,"$1,505.52",$33.88,Delivered,8/31/2024,No
+O1954,C800,Female,East,36,Jeans,Clothing,$558.79,1,$558.79,$18.44,In Transit,8/25/2024,No
+O1955,C437,Male,North,64,Magazine,Books,$491.27,2,$982.54,$95.37,In Transit,5/4/2025,No
+O1956,C626,Female,North,59,Magazine,Books,$945.22,4,"$3,780.88",$28.68,Delivered,7/1/2024,No
+O1957,C506,Male,East,45,Fiction,Books,$245.77,3,$737.31,$63.10,Returned,3/25/2025,Yes
+O1958,C142,Female,East,49,Magazine,Books,$16.37,4,$65.48,$78.45,Delivered,5/28/2025,No
+O1959,C756,Female,West,56,Headphones,Electronics,$162.95,2,$325.90,$78.44,Delivered,10/4/2024,No
+O1960,C148,Male,South,52,Desk,Home,$517.79,2,"$1,035.58",$99.96,Delivered,11/10/2024,No
+O1961,C850,Female,West,53,Lamp,Home,$771.75,1,$771.75,$73.73,Returned,7/29/2024,Yes
+O1962,C491,Female,North,53,Magazine,Books,$480.93,3,"$1,442.79",$12.74,Delivered,10/19/2024,No
+O1963,C407,Female,East,49,Tablet,Electronics,$212.40,3,$637.20,$68.19,Returned,4/14/2025,Yes
+O1964,C131,Male,East,54,Jeans,Clothing,$234.47,3,$703.41,$91.95,In Transit,7/15/2024,No
+O1965,C295,Female,North,27,Tablet,Electronics,$514.76,3,"$1,544.28",$21.11,Delivered,8/1/2024,No
+O1966,C311,Male,North,49,Desk,Home,$630.06,2,"$1,260.12",$59.60,Delivered,5/26/2025,No
+O1967,C445,Female,West,29,Sofa,Home,$443.80,2,$887.60,$99.68,Delivered,1/12/2025,No
+O1968,C385,Female,West,48,Fiction,Books,$798.05,3,"$2,394.15",$50.41,Delivered,7/9/2024,No
+O1969,C169,Male,North,41,Sofa,Home,$245.10,3,$735.30,$51.91,Delivered,4/12/2025,No
+O1970,C572,Male,North,46,Sneakers,Clothing,$775.65,1,$775.65,$64.75,Delivered,5/19/2025,No
+O1971,C822,Male,North,20,Chair,Home,$288.24,2,$576.48,$72.61,In Transit,8/19/2024,No
+O1972,C806,Female,East,53,Magazine,Books,$614.66,2,"$1,229.32",$45.29,Delivered,5/6/2025,No
+O1973,C289,Male,North,39,Phone,Electronics,$753.26,3,"$2,259.78",$68.64,Delivered,2/25/2025,No
+O1974,C757,Female,South,47,Jacket,Clothing,$218.67,2,$437.34,$70.97,Delivered,2/18/2025,No
+O1975,C763,Female,West,53,Chair,Home,$570.12,3,"$1,710.36",$93.46,Delivered,2/24/2025,No
+O1976,C541,Male,East,40,Phone,Electronics,$372.23,2,$744.46,$11.72,Delivered,3/3/2025,No
+O1977,C367,Male,East,55,Chair,Home,$828.59,2,"$1,657.18",$17.88,Delivered,10/10/2024,No
+O1978,C769,Female,East,35,Magazine,Books,$289.97,3,$869.91,$41.06,In Transit,7/10/2024,No
+O1979,C868,Male,North,42,Lamp,Home,$39.80,3,$119.40,$36.44,Delivered,2/28/2025,No
+O1980,C210,Female,North,63,T-Shirt,Clothing,$51.08,3,$153.24,$33.89,Delivered,2/27/2025,No
+O1981,C763,Female,North,46,Jacket,Clothing,$615.35,3,"$1,846.05",$27.31,In Transit,10/29/2024,No
+O1982,C156,Male,West,55,Desk,Home,$302.70,2,$605.40,$95.24,Delivered,3/19/2025,No
+O1983,C946,Male,South,40,Sofa,Home,$886.01,4,"$3,544.04",$41.54,In Transit,5/25/2025,No
+O1984,C267,Female,West,26,T-Shirt,Clothing,$913.80,4,"$3,655.20",$96.70,Delivered,11/23/2024,No
+O1985,C297,Female,East,49,Headphones,Electronics,$20.18,4,$80.72,$58.87,Returned,2/2/2025,Yes
+O1986,C737,Male,North,25,Sneakers,Clothing,$353.42,4,"$1,413.68",$99.11,Delivered,4/2/2025,No
+O1987,C697,Male,South,23,Non-fiction,Books,$318.76,3,$956.28,$22.80,Delivered,8/15/2024,No
+O1988,C161,Male,South,35,Phone,Electronics,$320.03,4,"$1,280.12",$33.49,In Transit,5/3/2025,No
+O1989,C552,Male,East,47,Magazine,Books,$349.95,4,"$1,399.80",$58.69,Delivered,2/28/2025,No
+O1990,C456,Male,East,55,Sofa,Home,$985.00,4,"$3,940.00",$43.53,In Transit,12/19/2024,No
+O1991,C281,Male,West,46,Desk,Home,$929.34,4,"$3,717.36",$24.84,Delivered,10/4/2024,No
+O1992,C487,Female,East,32,Magazine,Books,$247.59,4,$990.36,$63.57,In Transit,10/2/2024,No
+O1993,C569,Male,West,46,Textbook,Books,$158.97,2,$317.94,$50.39,Delivered,5/26/2025,No
+O1994,C851,Male,East,25,Jeans,Clothing,$914.10,3,"$2,742.30",$32.20,Delivered,9/20/2024,No
+O1995,C419,Female,South,25,Jeans,Clothing,$476.25,2,$952.50,$91.43,Delivered,9/3/2024,No
+O1996,C827,Female,East,51,Sofa,Home,$651.04,4,"$2,604.16",$62.01,Delivered,4/5/2025,No
+O1997,C129,Male,East,44,Tablet,Electronics,$905.32,1,$905.32,$20.33,Delivered,9/25/2024,No
+O1998,C709,Male,North,18,Sofa,Home,$942.12,1,$942.12,$10.62,In Transit,3/5/2025,No
+O1999,C150,Female,West,25,Tablet,Electronics,$220.32,1,$220.32,$32.45,Delivered,8/12/2024,No
+O2000,C779,Female,East,22,Headphones,Electronics,$719.95,3,"$2,159.85",$89.61,Delivered,10/2/2024,No
