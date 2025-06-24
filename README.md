@@ -43,17 +43,15 @@ To develop an **interactive business intelligence dashboard** using Python and P
 
 ### 🔹 1. Python EDA Notebook
 
-## ✅ EDA Summary Table
-
-| Area                     | Tasks Completed                                                                 |
-|--------------------------|----------------------------------------------------------------------------------|
-| **Data Loading & Preprocessing** | ✅ Loaded CSV, checked `.info()`, `.describe()`, `.head()`  <br>✅ Checked missing values & duplicates  <br>✅ Extracted `year`, `month`, `month_name`, `weekday` |
-| **Numerical Analysis**   | ✅ Distribution plots (histograms)  <br>✅ Boxplots for outliers  <br>✅ Skewness calculation  <br>✅ Descriptive statistics (mean, median, etc.) |
-| **Categorical Analysis** | ✅ Count plots / frequency distribution for:<br>`gender`, `region`, `category`, `shipping_status`, `returned` |
-| **Cross Analysis**       | ✅ Total sales by region  <br>✅ Average quantity by gender  <br>✅ Return rate by category (%)  <br>✅ Correlation matrix (heatmap) |
-| **Outlier Detection**    | ✅ Used IQR method to detect and visualize outliers for numeric columns |
-| **Time Series Analysis** | ✅ Total sales by month (combined)  <br>✅ Split trends for 2024 and 2025  <br>✅ Visualized with line charts |
-
+| 📂 EDA Area              | ✅ Tasks Completed                                                                 | 🛠️ Technologies / Tools Used            |
+|--------------------------|-----------------------------------------------------------------------------------|-----------------------------------------|
+| **Data Loading & Preprocessing** | ✅ Loaded CSV, used `.info()`, `.describe()`, `.head()` <br> ✅ Checked for missing values & duplicates <br> ✅ Extracted `year`, `month`, `month_name`, `weekday` | Python, Pandas |
+| **Numerical Analysis**   | ✅ Distribution plots (histograms) <br> ✅ Boxplots for outliers <br> ✅ Skewness calculation <br> ✅ Descriptive statistics (`mean`, `median`, `std`) | Pandas, NumPy, Seaborn, Matplotlib |
+| **Categorical Analysis** | ✅ Count plots for `gender`, `region`, `category`, `shipping_status`, `returned` | Seaborn, Pandas |
+| **Cross Analysis**       | ✅ Total sales by region <br> ✅ Avg quantity by gender <br> ✅ Return rate (%) by category | Pandas, Seaborn |
+| **Outlier Detection**    | ✅ Detected using IQR method for columns like `unit_price`, `shipping_fee` etc.  | Pandas, NumPy, Matplotlib |
+| **Correlation Analysis** | ✅ Correlation matrix + heatmap for numerical columns                            | Pandas, Seaborn |
+| **Time Series Analysis** | ✅ Extracted time features <br> ✅ Total sales by month (2024 & 2025) <br> ✅ Line chart comparison | Pandas, Matplotlib |
 
 
 ### 🔹 2. Power BI Dashboard
