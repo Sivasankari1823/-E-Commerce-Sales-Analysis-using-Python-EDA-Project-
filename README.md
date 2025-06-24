@@ -42,18 +42,19 @@ To develop an **interactive business intelligence dashboard** using Python and P
 ## 📊 Project Deliverables
 
 ### 🔹 1. Python EDA Notebook
-- Performed data cleaning, missing value handling, outlier detection, and statistical exploration.
-  
-- Created visual insights using Pandas, Matplotlib, and Seaborn.
-  
-- Extracted new features like **Month**, **Year**, **Weekday** for temporal trend analysis.
 
-## 🛠️ Tools & Technologies Used
-• Data Visualization: Business Intelligence Dashboard (Power BI)
+## ✅ EDA Summary Table
 
-•	Data Processing: ETL processes for data integration
+| Area                     | Tasks Completed                                                                 |
+|--------------------------|----------------------------------------------------------------------------------|
+| **Data Loading & Preprocessing** | ✅ Loaded CSV, checked `.info()`, `.describe()`, `.head()`  <br>✅ Checked missing values & duplicates  <br>✅ Extracted `year`, `month`, `month_name`, `weekday` |
+| **Numerical Analysis**   | ✅ Distribution plots (histograms)  <br>✅ Boxplots for outliers  <br>✅ Skewness calculation  <br>✅ Descriptive statistics (mean, median, etc.) |
+| **Categorical Analysis** | ✅ Count plots / frequency distribution for:<br>`gender`, `region`, `category`, `shipping_status`, `returned` |
+| **Cross Analysis**       | ✅ Total sales by region  <br>✅ Average quantity by gender  <br>✅ Return rate by category (%)  <br>✅ Correlation matrix (heatmap) |
+| **Outlier Detection**    | ✅ Used IQR method to detect and visualize outliers for numeric columns |
+| **Time Series Analysis** | ✅ Total sales by month (combined)  <br>✅ Split trends for 2024 and 2025  <br>✅ Visualized with line charts |
 
-•	Analytics: Statistical analysis for KPI calculations
+
 
 ### 🔹 2. Power BI Dashboard
 - Created dynamic KPIs (Sales, Quantity, Unit Price, Return Rate, Avg Age)
