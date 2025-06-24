@@ -40,7 +40,7 @@ To develop an **interactive business intelligence dashboard** using Python and P
 | Python (Pandas, Seaborn, Matplotlib) | Exploratory Data Analysis |
 | Power BI | Dashboard and KPI Visualization |
 | GitHub | Project hosting and version control |
-| CSV | Raw data input (1000 rows × 14 columns) |
+| CSV | Raw data input  |
 | Jupyter Notebook / Google Colab | Notebook execution and annotation |
 
 ## 📊 Project Deliverables
