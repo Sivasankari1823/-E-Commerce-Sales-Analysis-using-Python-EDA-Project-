@@ -39,6 +39,24 @@ To develop an **interactive business intelligence dashboard** using Python and P
 | CSV | Raw data input (1000 rows × 14 columns) |
 | Jupyter Notebook / Google Colab | Notebook execution and annotation |
 
+## 📊 Project Deliverables
+
+### 🔹 1. Python EDA Notebook
+- Performed data cleaning, missing value handling, outlier detection, and statistical exploration.
+  
+- Created visual insights using Pandas, Matplotlib, and Seaborn.
+  
+- Extracted new features like **Month**, **Year**, **Weekday** for temporal trend analysis.
+
+## 🛠️ Tools & Technologies Used
+• Data Visualization: Business Intelligence Dashboard (appears to be Tableau/Power BI)
+•	Data Processing: ETL processes for data integration
+•	Analytics: Statistical analysis for KPI calculations
+•	UI/UX Design: Interactive filter panels and responsive charts
+•	Database Management: Backend data storage and querying systems
+
+
+
 
 
 
