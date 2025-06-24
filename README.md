@@ -60,7 +60,7 @@ To develop an **interactive business intelligence dashboard** using Python and P
   
 - Added slicers (Year, Month, Gender, Region, Category, Shipping Status)
   
-- Built multiple visualizations:
+-**Built multiple visualizations:**
   
   - Sales trend (2024 vs 2025)
     
@@ -74,11 +74,11 @@ To develop an **interactive business intelligence dashboard** using Python and P
 
 ### Sales Insights
 
-Overall Performance:
+**Overall Performance:**
 
 The company achieved $1.255 million in total sales across 2,452 transactions, indicating strong business performance.
 
-Category Performance:
+**Category Performance:**
 
 •	Books lead with $331,730 (26.4% of total sales)
 
@@ -90,9 +90,9 @@ Category Performance:
 
 The sales distribution is remarkably balanced across all four categories, showing a well-diversified product portfolio.
 
-Regional Distribution: 
+**Regional Distribution:**
 
-Sales are evenly spread geographically:
+**Sales are evenly spread geographically:**
 
 •	North: $330.45K (26.32%)
 
@@ -106,16 +106,16 @@ This balanced regional performance suggests effective nationwide market penetrat
 
 ### Customer Insights ###
 
-Gender Analysis:
+**Gender Analysis:**
 
 Average unit prices show no significant gender bias, with both male and female customers spending approximately $500 per unit on average. This indicates the product mix appeals equally to both demographics.
 
-Purchase Patterns:
+**Purchase Patterns:**
 
 The data shows consistent customer engagement with an average of 4 items per transaction across the sample, suggesting customers are making substantial purchases rather than single-item buys.
 Time Trends
 
-Year-over-Year Growth:
+**Year-over-Year Growth:**
 
 •	2024: $669,125 in sales with 1,302 units sold
 
@@ -123,14 +123,14 @@ Year-over-Year Growth:
 
 The 2025 performance is tracking well considering it's only a partial year, suggesting sustained business momentum.
 
-Monthly Patterns: 
+**Monthly Patterns:** 
 
 The sales by month chart shows seasonal variations, with some months (particularly around month 10-12) showing stronger performance, likely indicating holiday shopping patterns.
 Return Insights
 
-### Return Rate Analysis:###
+### Return Rate Analysis ###
 
-Return rates vary significantly by category:
+**Return rates vary significantly by category:**
 
 •	Clothing: 11.6% (highest return rate)
 
@@ -140,7 +140,7 @@ Return rates vary significantly by category:
 
 •	Electronics: 9.1% (lowest return rate)
 
-Key Observations:
+**Key Observations:**
 
 •	Clothing's higher return rate (11.6%) is typical for fashion items due to fit and style preferences
 
