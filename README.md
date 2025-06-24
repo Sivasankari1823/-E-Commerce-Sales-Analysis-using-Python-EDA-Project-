@@ -196,7 +196,7 @@ The overall picture shows a healthy, well-balanced e-commerce business with stro
 
 ## 🧾 Final Conclusion
 
-The e-commerce dashboard showcases a **robust business strategy** with ₹1.255M in total sales and 2,452 transactions. The even distribution across categories and regions reflects a **well-diversified product mix** and **regional success**. Return rates are within industry norms, though **clothing returns** can be optimized. The **gender-neutral purchasing** and consistent customer behavior point to **broad market appeal**. 
+The e-commerce dashboard showcases a **robust business strategy** with  $1.255M in total sales and 2,452 transactions. The even distribution across categories and regions reflects a **well-diversified product mix** and **regional success**. Return rates are within industry norms, though **clothing returns** can be optimized. The **gender-neutral purchasing** and consistent customer behavior point to **broad market appeal**. 
 
 
 
