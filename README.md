@@ -31,7 +31,7 @@ To develop an **interactive business intelligence dashboard** using Python and P
 
 ## Dataset Used
 
-- <a href="> Dataset</a>
+- <a href="https://github.com/Sivasankari1823/-E-Commerce-Sales-Analysis-using-Python-EDA-Project-/commit/08a302df980d1e07d107dcedbf64a673ceffdbab"> Dataset</a>
 
 ## 🛠️ Tools & Technologies Used
 
@@ -57,6 +57,9 @@ To develop an **interactive business intelligence dashboard** using Python and P
 | **Correlation Analysis** | ✅ Correlation matrix + heatmap for numerical columns                            | Pandas, Seaborn |
 | **Time Series Analysis** | ✅ Extracted time features <br> ✅ Total sales by month (2024 & 2025) <br> ✅ Line chart comparison | Pandas, Matplotlib |
 
+- <a href="https://github.com/Sivasankari1823/-E-Commerce-Sales-Analysis-using-Python-EDA-Project-/commit/528156f98434e17ae55eb2ca2dce42fc089e9314
+"> EDA Project </a>
+
 
 ### 🔹 2. Power BI Dashboard
 - Created dynamic KPIs (Sales, Quantity, Unit Price, Return Rate, Avg Age)
@@ -74,6 +77,16 @@ To develop an **interactive business intelligence dashboard** using Python and P
   - Quantity by gender
     
   - Regional sales contribution
+
+- <a href="https://github.com/Sivasankari1823/-E-Commerce-Sales-Analysis-using-Python-EDA-Project-/commit/2ec219c6e0ed7b9828251bd511a17f04074ee48a"> Dashboard </a>
+
+
+- <a href="https://github.com/Sivasankari1823/-E-Commerce-Sales-Analysis-using-Python-EDA-Project-/commit/656c12833a0d24b09d0be4281b849e4021e12c1f"> Dashboard Screenshot 1</a>
+
+
+
+- <a href="https://github.com/Sivasankari1823/-E-Commerce-Sales-Analysis-using-Python-EDA-Project-/commit/656c12833a0d24b09d0be4281b849e4021e12c1f"> Dashboard Screenshot 1</a>
+
 
 ### Sales Insights
 
